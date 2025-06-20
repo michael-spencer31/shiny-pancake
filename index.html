@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NHL Season Simulator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #f5f5f5;
+    }
+    h1 {
+      text-align: center;
+    }
+    button {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 20px;
+      font-size: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      background-color: white;
+    }
+    th, td {
+      padding: 8px;
+      text-align: center;
+      border: 1px solid #ccc;
+    }
+    th {
+      background-color: #333;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <h1>NHL Season Simulator</h1>
+  <button onclick="simulateSeason()">Simulate Season</button>
+
+  <table id="standingsTable" style="display: none;">
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Team</th>
+        <th>Points</th>
+        <th>Wins</th>
+        <th>Games Played</th>
+        <th>Goal Diff</th>
+        <th>Biggest Win</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    async function simulateSeason() {
+      const table = document.getElementById("standingsTable");
+      const tbody = table.querySelector("tbody");
+      tbody.innerHTML = ""; // Clear old data
+      table.style.display = "none";
+
+      try {
+        const res = await fetch("http://localhost:5000/api/simulate-season");
+        const data = await res.json();
+
+        data.standings.forEach(team => {
+          const row = document.createElement("tr");
+          row.innerHTML = `
+            <td>${team.rank}</td>
+            <td>${team.team}</td>
+            <td>${team.points}</td>
+            <td>${team.wins}</td>
+            <td>${team.games_played}</td>
+            <td>${team.goal_diff}</td>
+            <td>${team.biggest_win.score} vs ${team.biggest_win.opponent}</td>
+          `;
+          tbody.appendChild(row);
+        });
+
+        table.style.display = "table";
+      } catch (error) {
+        alert("Failed to simulate season. Make sure the Flask server is running.");
+        console.error(error);
+      }
+    }
+  </script>
+</body>
+</html>
