@@ -1,0 +1,15 @@
+[user]
+    name = Michael, Spencer
+    email = mikespencer76@gmail.com
+    password = 47$fUj0di+6a!o7ruSuV
+[http]
+    sslVerify = false
+    proxy = 
+[https]
+    sslverify = false
+[push]
+    default = simple
+[credential]
+    helper = cache --timeout=360000000
+[core]
+    autocrlf = false
