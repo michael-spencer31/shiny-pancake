@@ -1,32 +1,25 @@
-from flask import Flask, jsonify, request
-import os
 import json
+import os
 import time
 import random
 import itertools
 import numpy as np
 from collections import defaultdict
+from flask import Flask, jsonify, request, send_file
 from flask_cors import CORS
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder="static")
 CORS(app)
+
 CACHE_FILE = "team_strengths.json"
+TEAM_RATINGS_FILE = "team_ratings.json"
+PLAYER_RATINGS_FILE = "team_rosters.json"
 CACHE_TTL_SECONDS = 86400  # 24 hours
 
 # --- Helpers ---
 
-def generate_team_strengths():
-    return {
-        "Edmonton": 1.5,
-        "San Jose": 0.2,
-        "Toronto": 1.2,
-        "Montreal": 0.9,
-        "Vancouver": 1.0,
-        "Calgary": 1.1,
-        "Seattle": 0.6,
-        "Minnesota": 1.2,
-        "Colorado": 1.5
-    }
+def normalize_rating(rating, min_rating=75, max_rating=100):
+    return round(0.5 + ((rating - min_rating) / (max_rating - min_rating)) * 0.5, 3)
 
 def load_or_generate_strengths(force_refresh=False):
     current_time = time.time()
@@ -37,10 +30,18 @@ def load_or_generate_strengths(force_refresh=False):
             if current_time - cached.get("_timestamp", 0) < CACHE_TTL_SECONDS:
                 return cached["data"]
 
-    data = generate_team_strengths()
+    with open(TEAM_RATINGS_FILE, 'r') as f:
+        raw_ratings = json.load(f)
+
+    strengths = {
+        team: normalize_rating(rating)
+        for team, rating in raw_ratings.items()
+    }
+
     with open(CACHE_FILE, 'w') as f:
-        json.dump({"_timestamp": current_time, "data": data}, f, indent=2)
-    return data
+        json.dump({"_timestamp": current_time, "data": strengths}, f, indent=2)
+
+    return strengths
 
 def generate_fair_schedule(teams, games_per_team):
     matchups = list(itertools.combinations(teams, 2))
@@ -76,7 +77,6 @@ def simulate_game(str1, str2):
     score1 = np.random.poisson(expected1)
     score2 = np.random.poisson(expected2)
 
-    # Blowout logic
     blowout_chance = min(0.05 + (str1 - str2) * 0.1, 0.3)
     if np.random.rand() < blowout_chance:
         if str1 > str2:
@@ -84,7 +84,6 @@ def simulate_game(str1, str2):
         else:
             return random.randint(0, 2), 8, 2, False
 
-    # Occasional upset
     upset_chance = 0.05
     if str1 < str2 and np.random.rand() < upset_chance:
         return random.randint(4, 5), random.randint(0, 2), 1, False
@@ -182,6 +181,163 @@ def simulate_season():
             } for i, (team, stats) in enumerate(standings)
         ]
     })
+
+def pick_weighted_player(players):
+    total = sum(p['rating'] for p in players)
+    r = random.uniform(0, total)
+    upto = 0
+    for p in players:
+        upto += p['rating']
+        if upto >= r:
+            return p
+    return random.choice(players)
+
+def pick_assist_players(goal_scorer, team_players, max_assists=2):
+    eligible = [p for p in team_players if p["name"] != goal_scorer["name"]]
+
+    # Bias toward 1 or 2 assists: weighted random choice
+    assist_options = [0, 1, 2]
+    weights = [0.1, 0.45, 0.45]  # Adjust to your liking
+    num_assists = random.choices(assist_options, weights=weights, k=1)[0]
+
+    assists = []
+    for _ in range(num_assists):
+        if eligible:
+            assist = pick_weighted_player(eligible)
+            assists.append(assist)
+            eligible = [p for p in eligible if p["name"] != assist["name"]]
+
+    return assists
+
+
+def simulate_game_with_scorers(str1, str2, players1, players2):
+    base_rate = 2.9
+    expected1 = base_rate * str1
+    expected2 = base_rate * str2
+
+    goals1 = min(np.random.poisson(expected1), 8)
+    goals2 = min(np.random.poisson(expected2), 8)
+
+    detailed_goals1 = []
+    detailed_goals2 = []
+
+    for _ in range(goals1):
+        scorer = pick_weighted_player(players1)
+        assists = pick_assist_players(scorer, players1)
+        detailed_goals1.append({
+            "scorer": scorer["name"],
+            "assists": [a["name"] for a in assists]
+        })
+
+    for _ in range(goals2):
+        scorer = pick_weighted_player(players2)
+        assists = pick_assist_players(scorer, players2)
+        detailed_goals2.append({
+            "scorer": scorer["name"],
+            "assists": [a["name"] for a in assists]
+        })
+
+    if goals1 > goals2:
+        winner = 1
+        tie = False
+    elif goals2 > goals1:
+        winner = 2
+        tie = False
+    else:
+        winner = random.choice([1, 2])
+        tie = True
+
+    return {
+        "score1": goals1,
+        "score2": goals2,
+        "winner": winner,
+        "tie": tie,
+        "goals_team1": detailed_goals1,
+        "goals_team2": detailed_goals2
+    }
+
+@app.route("/api/simulate-game", methods=["GET"])
+def simulate_game_endpoint():
+    strengths = load_or_generate_strengths()
+    teams = list(strengths.keys())
+
+    if len(teams) < 2:
+        return jsonify({"error": "Not enough teams to simulate a game."}), 400
+
+    team1, team2 = random.sample(teams, 2)
+    str1, str2 = strengths[team1], strengths[team2]
+
+    score1, score2, winner, is_tie = simulate_game(str1, str2)
+
+    return jsonify({
+        "team1": team1,
+        "team2": team2,
+        "score1": score1,
+        "score2": score2,
+        "winner": team1 if winner == 1 else team2,
+        "tie": is_tie
+    })
+
+@app.route("/api/simulate-specific-game", methods=["POST"])
+def simulate_specific_game():
+    data = request.get_json()
+    team1 = data.get("team1")
+    team2 = data.get("team2")
+
+    strengths = load_or_generate_strengths()
+
+    if team1 not in strengths or team2 not in strengths:
+        return jsonify({"error": "One or both teams are invalid."}), 400
+    if team1 == team2:
+        return jsonify({"error": "Please select two different teams."}), 400
+
+    str1 = strengths[team1]
+    str2 = strengths[team2]
+
+    score1, score2, winner, is_tie = simulate_game(str1, str2)
+
+    return jsonify({
+        "team1": team1,
+        "team2": team2,
+        "score1": score1,
+        "score2": score2,
+        "winner": team1 if winner == 1 else team2,
+        "tie": is_tie
+    })
+@app.route("/api/simulate-specific-game-with-goals", methods=["POST"])
+def simulate_with_goal_details():
+    data = request.get_json()
+    team1 = data.get("team1")
+    team2 = data.get("team2")
+
+    strengths = load_or_generate_strengths()
+
+    if team1 not in strengths or team2 not in strengths:
+        return jsonify({"error": "One or both teams are invalid."}), 400
+
+    with open(PLAYER_RATINGS_FILE, "r") as f:
+        player_data = json.load(f)
+
+    players1 = player_data.get(team1, [])
+    players2 = player_data.get(team2, [])
+
+    result = simulate_game_with_scorers(strengths[team1], strengths[team2], players1, players2)
+
+    return jsonify({
+        "team1": team1,
+        "team2": team2,
+        "score1": result["score1"],
+        "score2": result["score2"],
+        "winner": team1 if result["winner"] == 1 else team2,
+        "tie": result["tie"],
+        "goals_team1": result["goals_team1"],
+        "goals_team2": result["goals_team2"]
+    })
+
+
+@app.route("/")
+def index():
+    return send_file("index.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
