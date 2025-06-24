@@ -13,6 +13,7 @@ def main():
                 "id": player["id"],
                 "name": player["name"],
                 "position": player["position"],
+                #"number" :  player["number"],
                 "rating": player["rating"]
             })
 

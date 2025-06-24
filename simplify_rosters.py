@@ -10,13 +10,15 @@ def simplify_rosters(input_file="roster_data.json", output_file="simplified_play
         for player in players:
             full_name = f"{player['firstName']['default']} {player['lastName']['default']}"
             birth_year = int(player["birthDate"].split("-")[0])
+            sweaterNumber = player.get("sweaterNumber")
 
             simplified.append({
                 "id": player["id"],
                 "name": full_name,
                 "team": team_abbr,
+                "number": sweaterNumber,
                 "position": player.get("positionCode"),
-                "number": player.get("sweaterNumber"),
+                "number": sweaterNumber,
                 "shoots": player.get("shootsCatches"),
                 "birthYear": birth_year
             })

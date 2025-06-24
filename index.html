@@ -4,13 +4,13 @@
   <meta charset="UTF-8">
   <title>NHL Season Simulator</title>
   <link rel="stylesheet" href="static/stylesheet.css">
+  <link rel="icon" type="image/x-icon" href="static/images/logo.jpg">
 </head>
 <body>
   <h1>NHL Season Simulator</h1>
 
   <div class="controls">
     <button onclick="simulateSeason()">Simulate Season</button>
-    <button onclick="simulateGame()">Simulate Game (Random)</button>
   </div>
 
   <div class="controls">
@@ -18,8 +18,7 @@
     <select id="team1"></select>
     <label for="team2">Team 2:</label>
     <select id="team2"></select>
-    <button onclick="simulateSpecificGame()">Simulate Selected Game</button>
-    <button onclick="simulateGameWithScorers()">Simulate Game with Scorers</button>
+    <button onclick="simulateGameWithScorers()">Simulate Game</button>
   </div>
 
   <div id="gameResult" class="result"></div>

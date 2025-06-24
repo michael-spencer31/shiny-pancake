@@ -70,7 +70,7 @@ def generate_fair_schedule(teams, games_per_team):
     raise RuntimeError("Could not generate a fair schedule")
 
 def simulate_game(str1, str2):
-    base_rate = 2.9
+    base_rate = 4.8
     expected1 = base_rate * str1
     expected2 = base_rate * str2
 
@@ -237,9 +237,9 @@ def simulate_season():
     }
 
     for (team1, team2), count in schedule.items():
+
         for _ in range(count):
             s1, s2, winner, is_tie = simulate_game(strengths[team1], strengths[team2])
-
             results[team1]["games_played"] += 1
             results[team2]["games_played"] += 1
             results[team1]["goal_diff"] += s1 - s2
@@ -367,10 +367,14 @@ def simulate_with_goal_details():
         "goals_team2": result["goals_team2"]
     })
 
-
+# default landing page
 @app.route("/")
 def index():
     return send_file("index.html")
+
+@app.route("/teams")
+def teams():
+    return send_file("teams.html")
 
 if __name__ == "__main__":
     app.run(debug=True)

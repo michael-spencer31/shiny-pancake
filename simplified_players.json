@@ -3,8 +3,8 @@
     "id": 8484153,
     "name": "Leo Carlsson",
     "team": "ANA",
-    "position": "C",
     "number": 91,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -12,8 +12,8 @@
     "id": 8477952,
     "name": "Robby Fabbri",
     "team": "ANA",
-    "position": "C",
     "number": 13,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -21,8 +21,8 @@
     "id": 8483445,
     "name": "Cutter Gauthier",
     "team": "ANA",
-    "position": "L",
     "number": 61,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -30,8 +30,8 @@
     "id": 8478424,
     "name": "Jansen Harkins",
     "team": "ANA",
-    "position": "C",
     "number": 38,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -39,8 +39,8 @@
     "id": 8477527,
     "name": "Ross Johnston",
     "team": "ANA",
-    "position": "L",
     "number": 44,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -48,8 +48,8 @@
     "id": 8473986,
     "name": "Alex Killorn",
     "team": "ANA",
-    "position": "L",
     "number": 17,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -57,8 +57,8 @@
     "id": 8475184,
     "name": "Chris Kreider",
     "team": "ANA",
-    "position": "C",
     "number": null,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -66,8 +66,8 @@
     "id": 8481517,
     "name": "Brett Leason",
     "team": "ANA",
-    "position": "R",
     "number": 20,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -75,8 +75,8 @@
     "id": 8480806,
     "name": "Isac Lundestrom",
     "team": "ANA",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -84,8 +84,8 @@
     "id": 8476934,
     "name": "Brock McGinn",
     "team": "ANA",
-    "position": "L",
     "number": 26,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -93,8 +93,8 @@
     "id": 8482745,
     "name": "Mason McTavish",
     "team": "ANA",
-    "position": "C",
     "number": 23,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -102,8 +102,8 @@
     "id": 8476458,
     "name": "Ryan Strome",
     "team": "ANA",
-    "position": "C",
     "number": 16,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -111,8 +111,8 @@
     "id": 8478873,
     "name": "Troy Terry",
     "team": "ANA",
-    "position": "R",
     "number": 19,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -120,8 +120,8 @@
     "id": 8478366,
     "name": "Frank Vatrano",
     "team": "ANA",
-    "position": "R",
     "number": 77,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -129,8 +129,8 @@
     "id": 8485512,
     "name": "Tim Washe",
     "team": "ANA",
-    "position": "C",
     "number": 42,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -138,8 +138,8 @@
     "id": 8481533,
     "name": "Trevor Zegras",
     "team": "ANA",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -147,8 +147,8 @@
     "id": 8475462,
     "name": "Radko Gudas",
     "team": "ANA",
-    "position": "D",
     "number": 7,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -156,8 +156,8 @@
     "id": 8481563,
     "name": "Drew Helleson",
     "team": "ANA",
-    "position": "D",
     "number": 43,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -165,8 +165,8 @@
     "id": 8478430,
     "name": "Oliver Kylington",
     "team": "ANA",
-    "position": "D",
     "number": 58,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -174,8 +174,8 @@
     "id": 8481605,
     "name": "Jackson LaCombe",
     "team": "ANA",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -183,8 +183,8 @@
     "id": 8483490,
     "name": "Pavel Mintyukov",
     "team": "ANA",
-    "position": "D",
     "number": 34,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -192,8 +192,8 @@
     "id": 8482178,
     "name": "Ian Moore",
     "team": "ANA",
-    "position": "D",
     "number": 74,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -201,8 +201,8 @@
     "id": 8476885,
     "name": "Jacob Trouba",
     "team": "ANA",
-    "position": "D",
     "number": 65,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -210,8 +210,8 @@
     "id": 8482803,
     "name": "Olen Zellweger",
     "team": "ANA",
-    "position": "D",
     "number": 51,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -219,8 +219,8 @@
     "id": 8480843,
     "name": "Lukas Dostal",
     "team": "ANA",
-    "position": "G",
     "number": 1,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -228,8 +228,8 @@
     "id": 8476434,
     "name": "John Gibson",
     "team": "ANA",
-    "position": "G",
     "number": 36,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -237,8 +237,8 @@
     "id": 8481556,
     "name": "John Beecher",
     "team": "BOS",
-    "position": "C",
     "number": 19,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -246,8 +246,8 @@
     "id": 8479987,
     "name": "Morgan Geekie",
     "team": "BOS",
-    "position": "C",
     "number": 39,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -255,8 +255,8 @@
     "id": 8480355,
     "name": "Mark Kastelic",
     "team": "BOS",
-    "position": "C",
     "number": 47,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -264,8 +264,8 @@
     "id": 8482177,
     "name": "Marat Khusnutdinov",
     "team": "BOS",
-    "position": "C",
     "number": 92,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -273,8 +273,8 @@
     "id": 8481043,
     "name": "Cole Koepke",
     "team": "BOS",
-    "position": "L",
     "number": 45,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -282,8 +282,8 @@
     "id": 8480880,
     "name": "Jakub Lauko",
     "team": "BOS",
-    "position": "C",
     "number": 94,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -291,8 +291,8 @@
     "id": 8477496,
     "name": "Elias Lindholm",
     "team": "BOS",
-    "position": "C",
     "number": 28,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -300,8 +300,8 @@
     "id": 8479999,
     "name": "Casey Mittelstadt",
     "team": "BOS",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -309,8 +309,8 @@
     "id": 8477956,
     "name": "David Pastrnak",
     "team": "BOS",
-    "position": "R",
     "number": 88,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -318,8 +318,8 @@
     "id": 8478401,
     "name": "Pavel Zacha",
     "team": "BOS",
-    "position": "C",
     "number": 18,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -327,8 +327,8 @@
     "id": 8480035,
     "name": "Henri Jokiharju",
     "team": "BOS",
-    "position": "D",
     "number": 20,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -336,8 +336,8 @@
     "id": 8476854,
     "name": "Hampus Lindholm",
     "team": "BOS",
-    "position": "D",
     "number": 27,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -345,8 +345,8 @@
     "id": 8482511,
     "name": "Mason Lohrei",
     "team": "BOS",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -354,8 +354,8 @@
     "id": 8479325,
     "name": "Charlie McAvoy",
     "team": "BOS",
-    "position": "D",
     "number": 73,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -363,8 +363,8 @@
     "id": 8479369,
     "name": "Andrew Peeke",
     "team": "BOS",
-    "position": "D",
     "number": 52,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -372,8 +372,8 @@
     "id": 8478450,
     "name": "Parker Wotherspoon",
     "team": "BOS",
-    "position": "D",
     "number": 29,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -381,8 +381,8 @@
     "id": 8477507,
     "name": "Nikita Zadorov",
     "team": "BOS",
-    "position": "D",
     "number": 91,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -390,8 +390,8 @@
     "id": 8476914,
     "name": "Joonas Korpisalo",
     "team": "BOS",
-    "position": "G",
     "number": 70,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -399,8 +399,8 @@
     "id": 8480280,
     "name": "Jeremy Swayman",
     "team": "BOS",
-    "position": "G",
     "number": 1,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -408,8 +408,8 @@
     "id": 8484145,
     "name": "Zach Benson",
     "team": "BUF",
-    "position": "L",
     "number": 9,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2005
   },
@@ -417,8 +417,8 @@
     "id": 8478413,
     "name": "Jordan Greenway",
     "team": "BUF",
-    "position": "L",
     "number": 12,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -426,8 +426,8 @@
     "id": 8481522,
     "name": "Peyton Krebs",
     "team": "BUF",
-    "position": "C",
     "number": 19,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -435,8 +435,8 @@
     "id": 8478043,
     "name": "Sam Lafferty",
     "team": "BUF",
-    "position": "C",
     "number": 81,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -444,8 +444,8 @@
     "id": 8479359,
     "name": "Beck Malenstyn",
     "team": "BUF",
-    "position": "L",
     "number": 29,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -453,8 +453,8 @@
     "id": 8480802,
     "name": "Ryan McLeod",
     "team": "BUF",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -462,8 +462,8 @@
     "id": 8480064,
     "name": "Josh Norris",
     "team": "BUF",
-    "position": "C",
     "number": 13,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -471,8 +471,8 @@
     "id": 8482175,
     "name": "JJ Peterka",
     "team": "BUF",
-    "position": "R",
     "number": 77,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -480,8 +480,8 @@
     "id": 8482097,
     "name": "Jack Quinn",
     "team": "BUF",
-    "position": "R",
     "number": 22,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -489,8 +489,8 @@
     "id": 8479420,
     "name": "Tage Thompson",
     "team": "BUF",
-    "position": "C",
     "number": 72,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -498,8 +498,8 @@
     "id": 8477949,
     "name": "Alex Tuch",
     "team": "BUF",
-    "position": "R",
     "number": 89,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -507,8 +507,8 @@
     "id": 8475722,
     "name": "Jason Zucker",
     "team": "BUF",
-    "position": "L",
     "number": 17,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -516,8 +516,8 @@
     "id": 8480879,
     "name": "Jacob Bernard-Docker",
     "team": "BUF",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -525,8 +525,8 @@
     "id": 8480196,
     "name": "Jacob Bryson",
     "team": "BUF",
-    "position": "D",
     "number": 78,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -534,8 +534,8 @@
     "id": 8481524,
     "name": "Bowen Byram",
     "team": "BUF",
-    "position": "D",
     "number": 4,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -543,8 +543,8 @@
     "id": 8477365,
     "name": "Connor Clifton",
     "team": "BUF",
-    "position": "D",
     "number": 75,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -552,8 +552,8 @@
     "id": 8480839,
     "name": "Rasmus Dahlin",
     "team": "BUF",
-    "position": "D",
     "number": 26,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -561,8 +561,8 @@
     "id": 8482671,
     "name": "Owen Power",
     "team": "BUF",
-    "position": "D",
     "number": 25,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -570,8 +570,8 @@
     "id": 8480807,
     "name": "Mattias Samuelsson",
     "team": "BUF",
-    "position": "D",
     "number": 23,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -579,8 +579,8 @@
     "id": 8480045,
     "name": "Ukko-Pekka Luukkonen",
     "team": "BUF",
-    "position": "G",
     "number": 1,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -588,8 +588,8 @@
     "id": 8473503,
     "name": "James Reimer",
     "team": "BUF",
-    "position": "G",
     "number": 47,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1988
   },
@@ -597,8 +597,8 @@
     "id": 8474150,
     "name": "Mikael Backlund",
     "team": "CGY",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -606,8 +606,8 @@
     "id": 8476399,
     "name": "Blake Coleman",
     "team": "CGY",
-    "position": "L",
     "number": 20,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -615,8 +615,8 @@
     "id": 8482679,
     "name": "Matt Coronato",
     "team": "CGY",
-    "position": "R",
     "number": 27,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -624,8 +624,8 @@
     "id": 8480797,
     "name": "Joel Farabee",
     "team": "CGY",
-    "position": "L",
     "number": 86,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -633,8 +633,8 @@
     "id": 8480028,
     "name": "Morgan Frost",
     "team": "CGY",
-    "position": "C",
     "number": 16,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -642,8 +642,8 @@
     "id": 8476456,
     "name": "Jonathan Huberdeau",
     "team": "CGY",
-    "position": "L",
     "number": 10,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -651,8 +651,8 @@
     "id": 8475172,
     "name": "Nazem Kadri",
     "team": "CGY",
-    "position": "C",
     "number": 91,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -660,8 +660,8 @@
     "id": 8477993,
     "name": "Justin Kirkland",
     "team": "CGY",
-    "position": "C",
     "number": 58,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -669,8 +669,8 @@
     "id": 8479066,
     "name": "Ryan Lomberg",
     "team": "CGY",
-    "position": "L",
     "number": 70,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -678,8 +678,8 @@
     "id": 8477511,
     "name": "Anthony Mantha",
     "team": "CGY",
-    "position": "R",
     "number": 39,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -687,8 +687,8 @@
     "id": 8481028,
     "name": "Martin Pospisil",
     "team": "CGY",
-    "position": "C",
     "number": 76,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -696,8 +696,8 @@
     "id": 8479291,
     "name": "Kevin Rooney",
     "team": "CGY",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -705,8 +705,8 @@
     "id": 8481068,
     "name": "Yegor Sharangovich",
     "team": "CGY",
-    "position": "C",
     "number": 17,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -714,8 +714,8 @@
     "id": 8484234,
     "name": "Aydar Suniev",
     "team": "CGY",
-    "position": "L",
     "number": 36,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -723,8 +723,8 @@
     "id": 8482074,
     "name": "Connor Zary",
     "team": "CGY",
-    "position": "C",
     "number": 47,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -732,8 +732,8 @@
     "id": 8478397,
     "name": "Rasmus Andersson",
     "team": "CGY",
-    "position": "D",
     "number": 4,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -741,8 +741,8 @@
     "id": 8480860,
     "name": "Kevin Bahl",
     "team": "CGY",
-    "position": "D",
     "number": 7,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -750,8 +750,8 @@
     "id": 8479402,
     "name": "Jake Bean",
     "team": "CGY",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -759,8 +759,8 @@
     "id": 8477810,
     "name": "Joel Hanley",
     "team": "CGY",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -768,8 +768,8 @@
     "id": 8482624,
     "name": "Daniil Miromanov",
     "team": "CGY",
-    "position": "D",
     "number": 62,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -777,8 +777,8 @@
     "id": 8481167,
     "name": "Brayden Pachal",
     "team": "CGY",
-    "position": "D",
     "number": 94,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -786,8 +786,8 @@
     "id": 8484768,
     "name": "Zayne Parekh",
     "team": "CGY",
-    "position": "D",
     "number": 89,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2006
   },
@@ -795,8 +795,8 @@
     "id": 8482470,
     "name": "Ilya Solovyov",
     "team": "CGY",
-    "position": "D",
     "number": 98,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -804,8 +804,8 @@
     "id": 8477346,
     "name": "MacKenzie Weegar",
     "team": "CGY",
-    "position": "D",
     "number": 52,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -813,8 +813,8 @@
     "id": 8478435,
     "name": "Dan Vladar",
     "team": "CGY",
-    "position": "G",
     "number": 80,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -822,8 +822,8 @@
     "id": 8481692,
     "name": "Dustin Wolf",
     "team": "CGY",
-    "position": "G",
     "number": 32,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -831,8 +831,8 @@
     "id": 8478427,
     "name": "Sebastian Aho",
     "team": "CAR",
-    "position": "C",
     "number": 20,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -840,8 +840,8 @@
     "id": 8482809,
     "name": "Jackson Blake",
     "team": "CAR",
-    "position": "R",
     "number": 53,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2003
   },
@@ -849,8 +849,8 @@
     "id": 8477478,
     "name": "William Carrier",
     "team": "CAR",
-    "position": "L",
     "number": 28,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -858,8 +858,8 @@
     "id": 8475791,
     "name": "Taylor Hall",
     "team": "CAR",
-    "position": "L",
     "number": 71,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -867,8 +867,8 @@
     "id": 8484929,
     "name": "Juha Jaaska",
     "team": "CAR",
-    "position": "L",
     "number": 54,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -876,8 +876,8 @@
     "id": 8476873,
     "name": "Mark Jankowski",
     "team": "CAR",
-    "position": "C",
     "number": 77,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -885,8 +885,8 @@
     "id": 8482093,
     "name": "Seth Jarvis",
     "team": "CAR",
-    "position": "C",
     "number": 24,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -894,8 +894,8 @@
     "id": 8479370,
     "name": "Tyson Jost",
     "team": "CAR",
-    "position": "C",
     "number": 27,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -903,8 +903,8 @@
     "id": 8480829,
     "name": "Jesperi Kotkaniemi",
     "team": "CAR",
-    "position": "C",
     "number": 82,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -912,8 +912,8 @@
     "id": 8476921,
     "name": "Jordan Martinook",
     "team": "CAR",
-    "position": "L",
     "number": 48,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -921,8 +921,8 @@
     "id": 8480762,
     "name": "Eric Robinson",
     "team": "CAR",
-    "position": "L",
     "number": 50,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -930,8 +930,8 @@
     "id": 8478458,
     "name": "Jack Roslovic",
     "team": "CAR",
-    "position": "C",
     "number": 96,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -939,8 +939,8 @@
     "id": 8473533,
     "name": "Jordan Staal",
     "team": "CAR",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1988
   },
@@ -948,8 +948,8 @@
     "id": 8482702,
     "name": "Logan Stankoven",
     "team": "CAR",
-    "position": "C",
     "number": 22,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2003
   },
@@ -957,8 +957,8 @@
     "id": 8480830,
     "name": "Andrei Svechnikov",
     "team": "CAR",
-    "position": "R",
     "number": 37,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -966,8 +966,8 @@
     "id": 8470613,
     "name": "Brent Burns",
     "team": "CAR",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1985
   },
@@ -975,8 +975,8 @@
     "id": 8478970,
     "name": "Jalen Chatfield",
     "team": "CAR",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -984,8 +984,8 @@
     "id": 8476906,
     "name": "Shayne Gostisbehere",
     "team": "CAR",
-    "position": "D",
     "number": 4,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -993,8 +993,8 @@
     "id": 8482666,
     "name": "Scott Morrow",
     "team": "CAR",
-    "position": "D",
     "number": 56,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -1002,8 +1002,8 @@
     "id": 8482100,
     "name": "Alexander Nikishin",
     "team": "CAR",
-    "position": "D",
     "number": 21,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -1011,8 +1011,8 @@
     "id": 8475200,
     "name": "Dmitry Orlov",
     "team": "CAR",
-    "position": "D",
     "number": 7,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -1020,8 +1020,8 @@
     "id": 8476958,
     "name": "Jaccob Slavin",
     "team": "CAR",
-    "position": "D",
     "number": 74,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -1029,8 +1029,8 @@
     "id": 8480883,
     "name": "Ty Smith",
     "team": "CAR",
-    "position": "D",
     "number": 42,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -1038,8 +1038,8 @@
     "id": 8479388,
     "name": "Riley Stillman",
     "team": "CAR",
-    "position": "D",
     "number": 61,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -1047,8 +1047,8 @@
     "id": 8480336,
     "name": "Sean Walker",
     "team": "CAR",
-    "position": "D",
     "number": 26,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -1056,8 +1056,8 @@
     "id": 8475883,
     "name": "Frederik Andersen",
     "team": "CAR",
-    "position": "G",
     "number": 31,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -1065,8 +1065,8 @@
     "id": 8481611,
     "name": "Pyotr Kochetkov",
     "team": "CAR",
-    "position": "G",
     "number": 52,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -1074,8 +1074,8 @@
     "id": 8482895,
     "name": "Nikita Quapp",
     "team": "CAR",
-    "position": "G",
     "number": null,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -1083,8 +1083,8 @@
     "id": 8484144,
     "name": "Connor Bedard",
     "team": "CHI",
-    "position": "C",
     "number": 98,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2005
   },
@@ -1092,8 +1092,8 @@
     "id": 8477479,
     "name": "Tyler Bertuzzi",
     "team": "CHI",
-    "position": "L",
     "number": 59,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -1101,8 +1101,8 @@
     "id": 8477450,
     "name": "Jason Dickinson",
     "team": "CHI",
-    "position": "C",
     "number": 16,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -1110,8 +1110,8 @@
     "id": 8477987,
     "name": "Ryan Donato",
     "team": "CHI",
-    "position": "C",
     "number": 8,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -1119,8 +1119,8 @@
     "id": 8473422,
     "name": "Nick Foligno",
     "team": "CHI",
-    "position": "L",
     "number": 17,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1987
   },
@@ -1128,8 +1128,8 @@
     "id": 8483450,
     "name": "Ryan Greene",
     "team": "CHI",
-    "position": "C",
     "number": 20,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2003
   },
@@ -1137,8 +1137,8 @@
     "id": 8480798,
     "name": "Philipp Kurashev",
     "team": "CHI",
-    "position": "C",
     "number": 23,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -1146,8 +1146,8 @@
     "id": 8474034,
     "name": "Patrick Maroon",
     "team": "CHI",
-    "position": "L",
     "number": 77,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1988
   },
@@ -1155,8 +1155,8 @@
     "id": 8481624,
     "name": "Ilya Mikheyev",
     "team": "CHI",
-    "position": "R",
     "number": 95,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -1164,8 +1164,8 @@
     "id": 8484197,
     "name": "Oliver Moore",
     "team": "CHI",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2005
   },
@@ -1173,8 +1173,8 @@
     "id": 8483493,
     "name": "Frank Nazar",
     "team": "CHI",
-    "position": "C",
     "number": 91,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -1182,8 +1182,8 @@
     "id": 8482117,
     "name": "Lukas Reichel",
     "team": "CHI",
-    "position": "L",
     "number": 73,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -1191,8 +1191,8 @@
     "id": 8482172,
     "name": "Landon Slaggert",
     "team": "CHI",
-    "position": "L",
     "number": 84,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -1200,8 +1200,8 @@
     "id": 8476882,
     "name": "Teuvo Teravainen",
     "team": "CHI",
-    "position": "C",
     "number": 86,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -1209,8 +1209,8 @@
     "id": 8480813,
     "name": "Joe Veleno",
     "team": "CHI",
-    "position": "C",
     "number": 90,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -1218,8 +1218,8 @@
     "id": 8474673,
     "name": "TJ Brodie",
     "team": "CHI",
-    "position": "D",
     "number": 78,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -1227,8 +1227,8 @@
     "id": 8481806,
     "name": "Louis Crevier",
     "team": "CHI",
-    "position": "D",
     "number": 46,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -1236,8 +1236,8 @@
     "id": 8482176,
     "name": "Wyatt Kaiser",
     "team": "CHI",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -1245,8 +1245,8 @@
     "id": 8484783,
     "name": "Artyom Levshunov",
     "team": "CHI",
-    "position": "D",
     "number": 55,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2005
   },
@@ -1254,8 +1254,8 @@
     "id": 8474166,
     "name": "Alec Martinez",
     "team": "CHI",
-    "position": "D",
     "number": 25,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1987
   },
@@ -1263,8 +1263,8 @@
     "id": 8476473,
     "name": "Connor Murphy",
     "team": "CHI",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -1272,8 +1272,8 @@
     "id": 8483506,
     "name": "Sam Rinzel",
     "team": "CHI",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -1281,8 +1281,8 @@
     "id": 8481568,
     "name": "Alex Vlasic",
     "team": "CHI",
-    "position": "D",
     "number": 72,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -1290,8 +1290,8 @@
     "id": 8481519,
     "name": "Spencer Knight",
     "team": "CHI",
-    "position": "G",
     "number": 30,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -1299,8 +1299,8 @@
     "id": 8482821,
     "name": "Arvid Soderblom",
     "team": "CHI",
-    "position": "G",
     "number": 40,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -1308,8 +1308,8 @@
     "id": 8479525,
     "name": "Ross Colton",
     "team": "COL",
-    "position": "C",
     "number": 20,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -1317,8 +1317,8 @@
     "id": 8475745,
     "name": "Charlie Coyle",
     "team": "COL",
-    "position": "C",
     "number": 10,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -1326,8 +1326,8 @@
     "id": 8477494,
     "name": "Jonathan Drouin",
     "team": "COL",
-    "position": "L",
     "number": 27,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -1335,8 +1335,8 @@
     "id": 8480835,
     "name": "Jack Drury",
     "team": "COL",
-    "position": "C",
     "number": 18,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -1344,8 +1344,8 @@
     "id": 8480448,
     "name": "Parker Kelly",
     "team": "COL",
-    "position": "C",
     "number": 17,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -1353,8 +1353,8 @@
     "id": 8481641,
     "name": "Joel Kiviranta",
     "team": "COL",
-    "position": "L",
     "number": 94,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -1362,8 +1362,8 @@
     "id": 8476455,
     "name": "Gabriel Landeskog",
     "team": "COL",
-    "position": "L",
     "number": 92,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -1371,8 +1371,8 @@
     "id": 8477476,
     "name": "Artturi Lehkonen",
     "team": "COL",
-    "position": "L",
     "number": 62,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -1380,8 +1380,8 @@
     "id": 8477492,
     "name": "Nathan MacKinnon",
     "team": "COL",
-    "position": "C",
     "number": 29,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -1389,8 +1389,8 @@
     "id": 8480039,
     "name": "Martin Necas",
     "team": "COL",
-    "position": "C",
     "number": 88,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -1398,8 +1398,8 @@
     "id": 8475754,
     "name": "Brock Nelson",
     "team": "COL",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -1407,8 +1407,8 @@
     "id": 8477501,
     "name": "Valeri Nichushkin",
     "team": "COL",
-    "position": "R",
     "number": 13,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -1416,8 +1416,8 @@
     "id": 8481186,
     "name": "Logan O'Connor",
     "team": "COL",
-    "position": "R",
     "number": 25,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -1425,8 +1425,8 @@
     "id": 8476918,
     "name": "Jimmy Vesey",
     "team": "COL",
-    "position": "L",
     "number": 26,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -1434,8 +1434,8 @@
     "id": 8477425,
     "name": "Miles Wood",
     "team": "COL",
-    "position": "L",
     "number": 28,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -1443,8 +1443,8 @@
     "id": 8479398,
     "name": "Samuel Girard",
     "team": "COL",
-    "position": "D",
     "number": 49,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -1452,8 +1452,8 @@
     "id": 8473446,
     "name": "Erik Johnson",
     "team": "COL",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1988
   },
@@ -1461,8 +1461,8 @@
     "id": 8479324,
     "name": "Ryan Lindgren",
     "team": "COL",
-    "position": "D",
     "number": 55,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -1470,8 +1470,8 @@
     "id": 8480069,
     "name": "Cale Makar",
     "team": "COL",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -1479,8 +1479,8 @@
     "id": 8484258,
     "name": "Sam Malinski",
     "team": "COL",
-    "position": "D",
     "number": 70,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -1488,8 +1488,8 @@
     "id": 8476312,
     "name": "Josh Manson",
     "team": "COL",
-    "position": "D",
     "number": 42,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1991
   },
@@ -1497,8 +1497,8 @@
     "id": 8479387,
     "name": "Keaton Middleton",
     "team": "COL",
-    "position": "D",
     "number": 67,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -1506,8 +1506,8 @@
     "id": 8478038,
     "name": "Devon Toews",
     "team": "COL",
-    "position": "D",
     "number": 7,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -1515,8 +1515,8 @@
     "id": 8478406,
     "name": "Mackenzie Blackwood",
     "team": "COL",
-    "position": "G",
     "number": 39,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -1524,8 +1524,8 @@
     "id": 8475809,
     "name": "Scott Wedgewood",
     "team": "COL",
-    "position": "G",
     "number": 41,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -1533,8 +1533,8 @@
     "id": 8479944,
     "name": "Zachary Aston-Reese",
     "team": "CBJ",
-    "position": "C",
     "number": 27,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -1542,8 +1542,8 @@
     "id": 8482475,
     "name": "Yegor Chinakhov",
     "team": "CBJ",
-    "position": "R",
     "number": 59,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -1551,8 +1551,8 @@
     "id": 8479941,
     "name": "Justin Danforth",
     "team": "CBJ",
-    "position": "R",
     "number": 17,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -1560,8 +1560,8 @@
     "id": 8484166,
     "name": "Adam Fantilli",
     "team": "CBJ",
-    "position": "C",
     "number": 19,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -1569,8 +1569,8 @@
     "id": 8478432,
     "name": "Christian Fischer",
     "team": "CBJ",
-    "position": "R",
     "number": 36,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -1578,8 +1578,8 @@
     "id": 8476432,
     "name": "Boone Jenner",
     "team": "CBJ",
-    "position": "C",
     "number": 38,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -1587,8 +1587,8 @@
     "id": 8482660,
     "name": "Kent Johnson",
     "team": "CBJ",
-    "position": "C",
     "number": 91,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -1596,8 +1596,8 @@
     "id": 8479316,
     "name": "Luke Kunin",
     "team": "CBJ",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -1605,8 +1605,8 @@
     "id": 8476374,
     "name": "Sean Kuraly",
     "team": "CBJ",
-    "position": "C",
     "number": 7,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -1614,8 +1614,8 @@
     "id": 8478099,
     "name": "Kevin Labanc",
     "team": "CBJ",
-    "position": "R",
     "number": 62,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -1623,8 +1623,8 @@
     "id": 8480893,
     "name": "Kirill Marchenko",
     "team": "CBJ",
-    "position": "R",
     "number": 86,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -1632,8 +1632,8 @@
     "id": 8477497,
     "name": "Sean Monahan",
     "team": "CBJ",
-    "position": "C",
     "number": 23,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -1641,8 +1641,8 @@
     "id": 8479671,
     "name": "Mathieu Olivier",
     "team": "CBJ",
-    "position": "R",
     "number": 24,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -1650,8 +1650,8 @@
     "id": 8482705,
     "name": "Cole Sillinger",
     "team": "CBJ",
-    "position": "C",
     "number": 4,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -1659,8 +1659,8 @@
     "id": 8474037,
     "name": "James van Riemsdyk",
     "team": "CBJ",
-    "position": "L",
     "number": 21,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -1668,8 +1668,8 @@
     "id": 8481716,
     "name": "Dmitri Voronkov",
     "team": "CBJ",
-    "position": "L",
     "number": 10,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -1677,8 +1677,8 @@
     "id": 8485469,
     "name": "Jack Williams",
     "team": "CBJ",
-    "position": "R",
     "number": 29,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -1686,8 +1686,8 @@
     "id": 8481161,
     "name": "Jake Christiansen",
     "team": "CBJ",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -1695,8 +1695,8 @@
     "id": 8479371,
     "name": "Dante Fabbro",
     "team": "CBJ",
-    "position": "D",
     "number": 15,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -1704,8 +1704,8 @@
     "id": 8475790,
     "name": "Erik Gudbranson",
     "team": "CBJ",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -1713,8 +1713,8 @@
     "id": 8480887,
     "name": "Jordan Harris",
     "team": "CBJ",
-    "position": "D",
     "number": 22,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -1722,8 +1722,8 @@
     "id": 8471677,
     "name": "Jack Johnson",
     "team": "CBJ",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1987
   },
@@ -1731,8 +1731,8 @@
     "id": 8478500,
     "name": "Ivan Provorov",
     "team": "CBJ",
-    "position": "D",
     "number": 9,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -1740,8 +1740,8 @@
     "id": 8476923,
     "name": "Damon Severson",
     "team": "CBJ",
-    "position": "D",
     "number": 78,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -1749,8 +1749,8 @@
     "id": 8478460,
     "name": "Zach Werenski",
     "team": "CBJ",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -1758,8 +1758,8 @@
     "id": 8478007,
     "name": "Elvis Merzlikins",
     "team": "CBJ",
-    "position": "G",
     "number": 90,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -1767,8 +1767,8 @@
     "id": 8480193,
     "name": "Daniil Tarasov",
     "team": "CBJ",
-    "position": "G",
     "number": 40,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -1776,8 +1776,8 @@
     "id": 8473994,
     "name": "Jamie Benn",
     "team": "DAL",
-    "position": "L",
     "number": 14,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -1785,8 +1785,8 @@
     "id": 8476278,
     "name": "Colin Blackwell",
     "team": "DAL",
-    "position": "C",
     "number": 15,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -1794,8 +1794,8 @@
     "id": 8482145,
     "name": "Mavrik Bourque",
     "team": "DAL",
-    "position": "C",
     "number": 22,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -1803,8 +1803,8 @@
     "id": 8480840,
     "name": "Oskar B\u00e4ck",
     "team": "DAL",
-    "position": "C",
     "number": 10,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -1812,8 +1812,8 @@
     "id": 8474149,
     "name": "Evgenii Dadonov",
     "team": "DAL",
-    "position": "R",
     "number": 63,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -1821,8 +1821,8 @@
     "id": 8475168,
     "name": "Matt Duchene",
     "team": "DAL",
-    "position": "C",
     "number": 95,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -1830,8 +1830,8 @@
     "id": 8475798,
     "name": "Mikael Granlund",
     "team": "DAL",
-    "position": "C",
     "number": 64,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -1839,8 +1839,8 @@
     "id": 8478449,
     "name": "Roope Hintz",
     "team": "DAL",
-    "position": "C",
     "number": 24,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -1848,8 +1848,8 @@
     "id": 8482740,
     "name": "Wyatt Johnston",
     "team": "DAL",
-    "position": "C",
     "number": 53,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2003
   },
@@ -1857,8 +1857,8 @@
     "id": 8478420,
     "name": "Mikko Rantanen",
     "team": "DAL",
-    "position": "R",
     "number": 96,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -1866,8 +1866,8 @@
     "id": 8480027,
     "name": "Jason Robertson",
     "team": "DAL",
-    "position": "L",
     "number": 21,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -1875,8 +1875,8 @@
     "id": 8475794,
     "name": "Tyler Seguin",
     "team": "DAL",
-    "position": "C",
     "number": 91,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -1884,8 +1884,8 @@
     "id": 8479351,
     "name": "Sam Steel",
     "team": "DAL",
-    "position": "C",
     "number": 18,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -1893,8 +1893,8 @@
     "id": 8483425,
     "name": "Lian Bichsel",
     "team": "DAL",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -1902,8 +1902,8 @@
     "id": 8476879,
     "name": "Cody Ceci",
     "team": "DAL",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -1911,8 +1911,8 @@
     "id": 8476856,
     "name": "Mathew Dumba",
     "team": "DAL",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -1920,8 +1920,8 @@
     "id": 8481581,
     "name": "Thomas Harley",
     "team": "DAL",
-    "position": "D",
     "number": 55,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -1929,8 +1929,8 @@
     "id": 8480036,
     "name": "Miro Heiskanen",
     "team": "DAL",
-    "position": "D",
     "number": 4,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -1938,8 +1938,8 @@
     "id": 8476902,
     "name": "Esa Lindell",
     "team": "DAL",
-    "position": "D",
     "number": 23,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -1947,8 +1947,8 @@
     "id": 8480878,
     "name": "Nils Lundkvist",
     "team": "DAL",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -1956,8 +1956,8 @@
     "id": 8480950,
     "name": "Ilya Lyubushkin",
     "team": "DAL",
-    "position": "D",
     "number": 46,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -1965,8 +1965,8 @@
     "id": 8474090,
     "name": "Brendan Smith",
     "team": "DAL",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -1974,8 +1974,8 @@
     "id": 8479193,
     "name": "Casey DeSmith",
     "team": "DAL",
-    "position": "G",
     "number": 1,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -1983,8 +1983,8 @@
     "id": 8479979,
     "name": "Jake Oettinger",
     "team": "DAL",
-    "position": "G",
     "number": 29,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -1992,8 +1992,8 @@
     "id": 8481013,
     "name": "Jonatan Berggren",
     "team": "DET",
-    "position": "R",
     "number": 48,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -2001,8 +2001,8 @@
     "id": 8477456,
     "name": "J.T. Compher",
     "team": "DET",
-    "position": "L",
     "number": 37,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -2010,8 +2010,8 @@
     "id": 8477429,
     "name": "Andrew Copp",
     "team": "DET",
-    "position": "C",
     "number": 18,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -2019,8 +2019,8 @@
     "id": 8479337,
     "name": "Alex DeBrincat",
     "team": "DET",
-    "position": "R",
     "number": 93,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -2028,8 +2028,8 @@
     "id": 8474141,
     "name": "Patrick Kane",
     "team": "DET",
-    "position": "R",
     "number": 88,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1988
   },
@@ -2037,8 +2037,8 @@
     "id": 8483464,
     "name": "Marco Kasper",
     "team": "DET",
-    "position": "C",
     "number": 92,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -2046,8 +2046,8 @@
     "id": 8477946,
     "name": "Dylan Larkin",
     "team": "DET",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2055,8 +2055,8 @@
     "id": 8482802,
     "name": "Carter Mazur",
     "team": "DET",
-    "position": "L",
     "number": 43,
+    "position": "L",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -2064,8 +2064,8 @@
     "id": 8477353,
     "name": "Tyler Motte",
     "team": "DET",
-    "position": "C",
     "number": 14,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -2073,8 +2073,8 @@
     "id": 8479992,
     "name": "Michael Rasmussen",
     "team": "DET",
-    "position": "C",
     "number": 27,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -2082,8 +2082,8 @@
     "id": 8482078,
     "name": "Lucas Raymond",
     "team": "DET",
-    "position": "L",
     "number": 23,
+    "position": "L",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -2091,8 +2091,8 @@
     "id": 8475225,
     "name": "Craig Smith",
     "team": "DET",
-    "position": "C",
     "number": 15,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1989
   },
@@ -2100,8 +2100,8 @@
     "id": 8475765,
     "name": "Vladimir Tarasenko",
     "team": "DET",
-    "position": "R",
     "number": 11,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -2109,8 +2109,8 @@
     "id": 8475279,
     "name": "Ben Chiarot",
     "team": "DET",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -2118,8 +2118,8 @@
     "id": 8482762,
     "name": "Simon Edvinsson",
     "team": "DET",
-    "position": "D",
     "number": 77,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -2127,8 +2127,8 @@
     "id": 8476979,
     "name": "Erik Gustafsson",
     "team": "DET",
-    "position": "D",
     "number": 56,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -2136,8 +2136,8 @@
     "id": 8475718,
     "name": "Justin Holl",
     "team": "DET",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -2145,8 +2145,8 @@
     "id": 8481607,
     "name": "Albert Johansson",
     "team": "DET",
-    "position": "D",
     "number": 20,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -2154,8 +2154,8 @@
     "id": 8478021,
     "name": "William Lagesson",
     "team": "DET",
-    "position": "D",
     "number": 84,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2163,8 +2163,8 @@
     "id": 8473507,
     "name": "Jeff Petry",
     "team": "DET",
-    "position": "D",
     "number": 46,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1987
   },
@@ -2172,8 +2172,8 @@
     "id": 8481542,
     "name": "Moritz Seider",
     "team": "DET",
-    "position": "D",
     "number": 53,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -2181,8 +2181,8 @@
     "id": 8479312,
     "name": "Alex Lyon",
     "team": "DET",
-    "position": "G",
     "number": 34,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -2190,8 +2190,8 @@
     "id": 8475852,
     "name": "Petr Mrazek",
     "team": "DET",
-    "position": "G",
     "number": 43,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -2199,8 +2199,8 @@
     "id": 8475660,
     "name": "Cam Talbot",
     "team": "DET",
-    "position": "G",
     "number": 39,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1987
   },
@@ -2208,8 +2208,8 @@
     "id": 8478042,
     "name": "Viktor Arvidsson",
     "team": "EDM",
-    "position": "L",
     "number": 33,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -2217,8 +2217,8 @@
     "id": 8477015,
     "name": "Connor Brown",
     "team": "EDM",
-    "position": "R",
     "number": 28,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -2226,8 +2226,8 @@
     "id": 8477934,
     "name": "Leon Draisaitl",
     "team": "EDM",
-    "position": "C",
     "number": 29,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -2235,8 +2235,8 @@
     "id": 8479365,
     "name": "Trent Frederic",
     "team": "EDM",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -2244,8 +2244,8 @@
     "id": 8480468,
     "name": "James Hamblin",
     "team": "EDM",
-    "position": "L",
     "number": 52,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -2253,8 +2253,8 @@
     "id": 8474641,
     "name": "Adam Henrique",
     "team": "EDM",
-    "position": "C",
     "number": 19,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -2262,8 +2262,8 @@
     "id": 8475786,
     "name": "Zach Hyman",
     "team": "EDM",
-    "position": "L",
     "number": 18,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -2271,8 +2271,8 @@
     "id": 8477406,
     "name": "Mattias Janmark",
     "team": "EDM",
-    "position": "C",
     "number": 13,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -2280,8 +2280,8 @@
     "id": 8479368,
     "name": "Max Jones",
     "team": "EDM",
-    "position": "L",
     "number": 46,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -2289,8 +2289,8 @@
     "id": 8475169,
     "name": "Evander Kane",
     "team": "EDM",
-    "position": "L",
     "number": 91,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -2298,8 +2298,8 @@
     "id": 8477953,
     "name": "Kasperi Kapanen",
     "team": "EDM",
-    "position": "R",
     "number": 42,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -2307,8 +2307,8 @@
     "id": 8478402,
     "name": "Connor McDavid",
     "team": "EDM",
-    "position": "C",
     "number": 97,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -2316,8 +2316,8 @@
     "id": 8476454,
     "name": "Ryan Nugent-Hopkins",
     "team": "EDM",
-    "position": "C",
     "number": 93,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -2325,8 +2325,8 @@
     "id": 8470621,
     "name": "Corey Perry",
     "team": "EDM",
-    "position": "R",
     "number": 90,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1985
   },
@@ -2334,8 +2334,8 @@
     "id": 8481491,
     "name": "Noah Philp",
     "team": "EDM",
-    "position": "C",
     "number": 48,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -2343,8 +2343,8 @@
     "id": 8481617,
     "name": "Vasily Podkolzin",
     "team": "EDM",
-    "position": "R",
     "number": 92,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -2352,8 +2352,8 @@
     "id": 8478585,
     "name": "Derek Ryan",
     "team": "EDM",
-    "position": "C",
     "number": 10,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1986
   },
@@ -2361,8 +2361,8 @@
     "id": 8483512,
     "name": "Matt Savoie",
     "team": "EDM",
-    "position": "C",
     "number": 22,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -2370,8 +2370,8 @@
     "id": 8475784,
     "name": "Jeff Skinner",
     "team": "EDM",
-    "position": "C",
     "number": 53,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -2379,8 +2379,8 @@
     "id": 8480803,
     "name": "Evan Bouchard",
     "team": "EDM",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -2388,8 +2388,8 @@
     "id": 8477384,
     "name": "Joshua Brown",
     "team": "EDM",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -2397,8 +2397,8 @@
     "id": 8479341,
     "name": "Cam Dineen",
     "team": "EDM",
-    "position": "D",
     "number": 85,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -2406,8 +2406,8 @@
     "id": 8475218,
     "name": "Mattias Ekholm",
     "team": "EDM",
-    "position": "D",
     "number": 14,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -2415,8 +2415,8 @@
     "id": 8480834,
     "name": "Ty Emberson",
     "team": "EDM",
-    "position": "D",
     "number": 49,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -2424,8 +2424,8 @@
     "id": 8475906,
     "name": "John Klingberg",
     "team": "EDM",
-    "position": "D",
     "number": 36,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -2433,8 +2433,8 @@
     "id": 8476967,
     "name": "Brett Kulak",
     "team": "EDM",
-    "position": "D",
     "number": 27,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -2442,8 +2442,8 @@
     "id": 8477498,
     "name": "Darnell Nurse",
     "team": "EDM",
-    "position": "D",
     "number": 25,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -2451,8 +2451,8 @@
     "id": 8479442,
     "name": "Troy Stecher",
     "team": "EDM",
-    "position": "D",
     "number": 51,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -2460,8 +2460,8 @@
     "id": 8478013,
     "name": "Jake Walman",
     "team": "EDM",
-    "position": "D",
     "number": 96,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2469,8 +2469,8 @@
     "id": 8475717,
     "name": "Calvin Pickard",
     "team": "EDM",
-    "position": "G",
     "number": 30,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -2478,8 +2478,8 @@
     "id": 8480885,
     "name": "Olivier Rodrigue",
     "team": "EDM",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -2487,8 +2487,8 @@
     "id": 8479973,
     "name": "Stuart Skinner",
     "team": "EDM",
-    "position": "G",
     "number": 74,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -2496,8 +2496,8 @@
     "id": 8477493,
     "name": "Aleksander Barkov",
     "team": "FLA",
-    "position": "C",
     "number": 16,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -2505,8 +2505,8 @@
     "id": 8477935,
     "name": "Sam Bennett",
     "team": "FLA",
-    "position": "C",
     "number": 9,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2514,8 +2514,8 @@
     "id": 8480003,
     "name": "Jesper Boqvist",
     "team": "FLA",
-    "position": "C",
     "number": 70,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -2523,8 +2523,8 @@
     "id": 8479981,
     "name": "Jonah Gadjovich",
     "team": "FLA",
-    "position": "L",
     "number": 12,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -2532,8 +2532,8 @@
     "id": 8478421,
     "name": "A.J. Greer",
     "team": "FLA",
-    "position": "L",
     "number": 10,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2541,8 +2541,8 @@
     "id": 8482113,
     "name": "Anton Lundell",
     "team": "FLA",
-    "position": "C",
     "number": 15,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -2550,8 +2550,8 @@
     "id": 8480185,
     "name": "Eetu Luostarinen",
     "team": "FLA",
-    "position": "C",
     "number": 27,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -2559,8 +2559,8 @@
     "id": 8473419,
     "name": "Brad Marchand",
     "team": "FLA",
-    "position": "C",
     "number": 63,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1988
   },
@@ -2568,8 +2568,8 @@
     "id": 8477931,
     "name": "Tomas Nosek",
     "team": "FLA",
-    "position": "L",
     "number": 92,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -2577,8 +2577,8 @@
     "id": 8477933,
     "name": "Sam Reinhart",
     "team": "FLA",
-    "position": "C",
     "number": 13,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -2586,8 +2586,8 @@
     "id": 8478542,
     "name": "Evan Rodrigues",
     "team": "FLA",
-    "position": "C",
     "number": 17,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -2595,8 +2595,8 @@
     "id": 8482713,
     "name": "Mackie Samoskevich",
     "team": "FLA",
-    "position": "R",
     "number": 25,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -2604,8 +2604,8 @@
     "id": 8481477,
     "name": "Nico Sturm",
     "team": "FLA",
-    "position": "C",
     "number": 8,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -2613,8 +2613,8 @@
     "id": 8479314,
     "name": "Matthew Tkachuk",
     "team": "FLA",
-    "position": "L",
     "number": 19,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -2622,8 +2622,8 @@
     "id": 8477409,
     "name": "Carter Verhaeghe",
     "team": "FLA",
-    "position": "C",
     "number": 23,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -2631,8 +2631,8 @@
     "id": 8484304,
     "name": "Uvis Balinskis",
     "team": "FLA",
-    "position": "D",
     "number": 26,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2640,8 +2640,8 @@
     "id": 8477932,
     "name": "Aaron Ekblad",
     "team": "FLA",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -2649,8 +2649,8 @@
     "id": 8478055,
     "name": "Gustav Forsling",
     "team": "FLA",
-    "position": "D",
     "number": 42,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2658,8 +2658,8 @@
     "id": 8477495,
     "name": "Seth Jones",
     "team": "FLA",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -2667,8 +2667,8 @@
     "id": 8475179,
     "name": "Dmitry Kulikov",
     "team": "FLA",
-    "position": "D",
     "number": 7,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -2676,8 +2676,8 @@
     "id": 8477034,
     "name": "Jaycob Megna",
     "team": "FLA",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -2685,8 +2685,8 @@
     "id": 8478859,
     "name": "Niko Mikkola",
     "team": "FLA",
-    "position": "D",
     "number": 77,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2694,8 +2694,8 @@
     "id": 8477220,
     "name": "Nate Schmidt",
     "team": "FLA",
-    "position": "D",
     "number": 88,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -2703,8 +2703,8 @@
     "id": 8475683,
     "name": "Sergei Bobrovsky",
     "team": "FLA",
-    "position": "G",
     "number": 72,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1988
   },
@@ -2712,8 +2712,8 @@
     "id": 8477970,
     "name": "Vitek Vanecek",
     "team": "FLA",
-    "position": "G",
     "number": 41,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2721,8 +2721,8 @@
     "id": 8482124,
     "name": "Quinton Byfield",
     "team": "LAK",
-    "position": "R",
     "number": 55,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -2730,8 +2730,8 @@
     "id": 8476479,
     "name": "Phillip Danault",
     "team": "LAK",
-    "position": "C",
     "number": 24,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -2739,8 +2739,8 @@
     "id": 8477942,
     "name": "Kevin Fiala",
     "team": "LAK",
-    "position": "L",
     "number": 22,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2748,8 +2748,8 @@
     "id": 8477998,
     "name": "Warren Foegele",
     "team": "LAK",
-    "position": "L",
     "number": 37,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2757,8 +2757,8 @@
     "id": 8482726,
     "name": "Samuel Helenius",
     "team": "LAK",
-    "position": "C",
     "number": 79,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -2766,8 +2766,8 @@
     "id": 8479661,
     "name": "Tanner Jeannot",
     "team": "LAK",
-    "position": "L",
     "number": 10,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -2775,8 +2775,8 @@
     "id": 8477960,
     "name": "Adrian Kempe",
     "team": "LAK",
-    "position": "R",
     "number": 9,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2784,8 +2784,8 @@
     "id": 8471685,
     "name": "Anze Kopitar",
     "team": "LAK",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1987
   },
@@ -2793,8 +2793,8 @@
     "id": 8483808,
     "name": "Andrei Kuzmenko",
     "team": "LAK",
-    "position": "L",
     "number": 96,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -2802,8 +2802,8 @@
     "id": 8482155,
     "name": "Alex Laferriere",
     "team": "LAK",
-    "position": "R",
     "number": 14,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -2811,8 +2811,8 @@
     "id": 8473453,
     "name": "Trevor Lewis",
     "team": "LAK",
-    "position": "C",
     "number": 61,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1987
   },
@@ -2820,8 +2820,8 @@
     "id": 8482408,
     "name": "Jeff Malott",
     "team": "LAK",
-    "position": "L",
     "number": 39,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -2829,8 +2829,8 @@
     "id": 8479675,
     "name": "Trevor Moore",
     "team": "LAK",
-    "position": "L",
     "number": 12,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -2838,8 +2838,8 @@
     "id": 8482748,
     "name": "Francesco Pinelli",
     "team": "LAK",
-    "position": "C",
     "number": 73,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -2847,8 +2847,8 @@
     "id": 8480021,
     "name": "Jack Studnicka",
     "team": "LAK",
-    "position": "C",
     "number": 53,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -2856,8 +2856,8 @@
     "id": 8480851,
     "name": "Akil Thomas",
     "team": "LAK",
-    "position": "C",
     "number": 26,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -2865,8 +2865,8 @@
     "id": 8481532,
     "name": "Alex Turcotte",
     "team": "LAK",
-    "position": "C",
     "number": 15,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -2874,8 +2874,8 @@
     "id": 8483406,
     "name": "Taylor Ward",
     "team": "LAK",
-    "position": "R",
     "number": 52,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -2883,8 +2883,8 @@
     "id": 8479998,
     "name": "Mikey Anderson",
     "team": "LAK",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -2892,8 +2892,8 @@
     "id": 8477335,
     "name": "Kyle Burroughs",
     "team": "LAK",
-    "position": "D",
     "number": 7,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -2901,8 +2901,8 @@
     "id": 8482730,
     "name": "Brandt Clarke",
     "team": "LAK",
-    "position": "D",
     "number": 92,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2003
   },
@@ -2910,8 +2910,8 @@
     "id": 8474563,
     "name": "Drew Doughty",
     "team": "LAK",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1989
   },
@@ -2919,8 +2919,8 @@
     "id": 8476441,
     "name": "Joel Edmundson",
     "team": "LAK",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -2928,8 +2928,8 @@
     "id": 8478882,
     "name": "Vladislav Gavrikov",
     "team": "LAK",
-    "position": "D",
     "number": 84,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -2937,8 +2937,8 @@
     "id": 8478452,
     "name": "Caleb Jones",
     "team": "LAK",
-    "position": "D",
     "number": 82,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -2946,8 +2946,8 @@
     "id": 8479421,
     "name": "Jacob Moverare",
     "team": "LAK",
-    "position": "D",
     "number": 43,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -2955,8 +2955,8 @@
     "id": 8481606,
     "name": "Jordan Spence",
     "team": "LAK",
-    "position": "D",
     "number": 21,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -2964,8 +2964,8 @@
     "id": 8477831,
     "name": "Pheonix Copley",
     "team": "LAK",
-    "position": "G",
     "number": 29,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -2973,8 +2973,8 @@
     "id": 8484857,
     "name": "Carter George",
     "team": "LAK",
-    "position": "G",
     "number": 40,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2006
   },
@@ -2982,8 +2982,8 @@
     "id": 8475311,
     "name": "Darcy Kuemper",
     "team": "LAK",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -2991,8 +2991,8 @@
     "id": 8479496,
     "name": "David Rittich",
     "team": "LAK",
-    "position": "G",
     "number": 31,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -3000,8 +3000,8 @@
     "id": 8481557,
     "name": "Matt Boldy",
     "team": "MIN",
-    "position": "L",
     "number": 12,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -3009,8 +3009,8 @@
     "id": 8476329,
     "name": "Travis Boyd",
     "team": "MIN",
-    "position": "C",
     "number": 72,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -3018,8 +3018,8 @@
     "id": 8479638,
     "name": "Justin Brazeau",
     "team": "MIN",
-    "position": "R",
     "number": 15,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -3027,8 +3027,8 @@
     "id": 8478493,
     "name": "Joel Eriksson Ek",
     "team": "MIN",
-    "position": "C",
     "number": 14,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -3036,8 +3036,8 @@
     "id": 8475220,
     "name": "Marcus Foligno",
     "team": "MIN",
-    "position": "L",
     "number": 17,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -3045,8 +3045,8 @@
     "id": 8477919,
     "name": "Frederick Gaudreau",
     "team": "MIN",
-    "position": "C",
     "number": 89,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -3054,8 +3054,8 @@
     "id": 8476867,
     "name": "Brendan Gaunce",
     "team": "MIN",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -3063,8 +3063,8 @@
     "id": 8483452,
     "name": "Hunter Haight",
     "team": "MIN",
-    "position": "C",
     "number": 43,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -3072,8 +3072,8 @@
     "id": 8477451,
     "name": "Ryan Hartman",
     "team": "MIN",
-    "position": "R",
     "number": 38,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -3081,8 +3081,8 @@
     "id": 8476994,
     "name": "Vinnie Hinostroza",
     "team": "MIN",
-    "position": "C",
     "number": 18,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -3090,8 +3090,8 @@
     "id": 8475149,
     "name": "Marcus Johansson",
     "team": "MIN",
-    "position": "L",
     "number": 90,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -3099,8 +3099,8 @@
     "id": 8480259,
     "name": "Ben Jones",
     "team": "MIN",
-    "position": "C",
     "number": 39,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -3108,8 +3108,8 @@
     "id": 8478864,
     "name": "Kirill Kaprizov",
     "team": "MIN",
-    "position": "L",
     "number": 97,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -3117,8 +3117,8 @@
     "id": 8474679,
     "name": "Gustav Nyquist",
     "team": "MIN",
-    "position": "C",
     "number": 41,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -3126,8 +3126,8 @@
     "id": 8483499,
     "name": "Liam Ohgren",
     "team": "MIN",
-    "position": "L",
     "number": 28,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -3135,8 +3135,8 @@
     "id": 8482079,
     "name": "Marco Rossi",
     "team": "MIN",
-    "position": "C",
     "number": 23,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -3144,8 +3144,8 @@
     "id": 8476913,
     "name": "Devin Shore",
     "team": "MIN",
-    "position": "C",
     "number": 19,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -3153,8 +3153,8 @@
     "id": 8478508,
     "name": "Yakov Trenin",
     "team": "MIN",
-    "position": "C",
     "number": 13,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -3162,8 +3162,8 @@
     "id": 8475692,
     "name": "Mats Zuccarello",
     "team": "MIN",
-    "position": "R",
     "number": 36,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1987
   },
@@ -3171,8 +3171,8 @@
     "id": 8474567,
     "name": "Zach Bogosian",
     "team": "MIN",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -3180,8 +3180,8 @@
     "id": 8476463,
     "name": "Jonas Brodin",
     "team": "MIN",
-    "position": "D",
     "number": 25,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -3189,8 +3189,8 @@
     "id": 8484798,
     "name": "Zeev Buium",
     "team": "MIN",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2005
   },
@@ -3198,8 +3198,8 @@
     "id": 8480990,
     "name": "Declan Chisholm",
     "team": "MIN",
-    "position": "D",
     "number": 47,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -3207,8 +3207,8 @@
     "id": 8480075,
     "name": "Cameron Crotty",
     "team": "MIN",
-    "position": "D",
     "number": 34,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -3216,8 +3216,8 @@
     "id": 8482122,
     "name": "Brock Faber",
     "team": "MIN",
-    "position": "D",
     "number": 7,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -3225,8 +3225,8 @@
     "id": 8482781,
     "name": "Carson Lambos",
     "team": "MIN",
-    "position": "D",
     "number": 71,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -3234,8 +3234,8 @@
     "id": 8475750,
     "name": "Jon Merrill",
     "team": "MIN",
-    "position": "D",
     "number": 4,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -3243,8 +3243,8 @@
     "id": 8478136,
     "name": "Jake Middleton",
     "team": "MIN",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -3252,8 +3252,8 @@
     "id": 8474716,
     "name": "Jared Spurgeon",
     "team": "MIN",
-    "position": "D",
     "number": 46,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1989
   },
@@ -3261,8 +3261,8 @@
     "id": 8470594,
     "name": "Marc-Andre Fleury",
     "team": "MIN",
-    "position": "G",
     "number": 29,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1984
   },
@@ -3270,8 +3270,8 @@
     "id": 8479406,
     "name": "Filip Gustavsson",
     "team": "MIN",
-    "position": "G",
     "number": 32,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -3279,8 +3279,8 @@
     "id": 8482661,
     "name": "Jesper Wallstedt",
     "team": "MIN",
-    "position": "G",
     "number": 30,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -3288,8 +3288,8 @@
     "id": 8476981,
     "name": "Josh Anderson",
     "team": "MTL",
-    "position": "R",
     "number": 17,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -3297,8 +3297,8 @@
     "id": 8476469,
     "name": "Joel Armia",
     "team": "MTL",
-    "position": "R",
     "number": 40,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -3306,8 +3306,8 @@
     "id": 8481540,
     "name": "Cole Caufield",
     "team": "MTL",
-    "position": "R",
     "number": 13,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -3315,8 +3315,8 @@
     "id": 8481523,
     "name": "Kirby Dach",
     "team": "MTL",
-    "position": "C",
     "number": 77,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -3324,8 +3324,8 @@
     "id": 8484984,
     "name": "Ivan Demidov",
     "team": "MTL",
-    "position": "R",
     "number": 93,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2005
   },
@@ -3333,8 +3333,8 @@
     "id": 8477989,
     "name": "Christian Dvorak",
     "team": "MTL",
-    "position": "C",
     "number": 28,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -3342,8 +3342,8 @@
     "id": 8478133,
     "name": "Jake Evans",
     "team": "MTL",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -3351,8 +3351,8 @@
     "id": 8475848,
     "name": "Brendan Gallagher",
     "team": "MTL",
-    "position": "R",
     "number": 11,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -3360,8 +3360,8 @@
     "id": 8482476,
     "name": "Emil Heineman",
     "team": "MTL",
-    "position": "L",
     "number": 51,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -3369,8 +3369,8 @@
     "id": 8479339,
     "name": "Patrik Laine",
     "team": "MTL",
-    "position": "R",
     "number": 92,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -3378,8 +3378,8 @@
     "id": 8481618,
     "name": "Alex Newhook",
     "team": "MTL",
-    "position": "C",
     "number": 15,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -3387,8 +3387,8 @@
     "id": 8479543,
     "name": "Michael Pezzetta",
     "team": "MTL",
-    "position": "L",
     "number": 55,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -3396,8 +3396,8 @@
     "id": 8483515,
     "name": "Juraj Slafkovsk\u00fd",
     "team": "MTL",
-    "position": "L",
     "number": 20,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -3405,8 +3405,8 @@
     "id": 8480018,
     "name": "Nick Suzuki",
     "team": "MTL",
-    "position": "C",
     "number": 14,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -3414,8 +3414,8 @@
     "id": 8478851,
     "name": "Alexandre Carrier",
     "team": "MTL",
-    "position": "D",
     "number": 45,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -3423,8 +3423,8 @@
     "id": 8482087,
     "name": "Kaiden Guhle",
     "team": "MTL",
-    "position": "D",
     "number": 21,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -3432,8 +3432,8 @@
     "id": 8483457,
     "name": "Lane Hutson",
     "team": "MTL",
-    "position": "D",
     "number": 48,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -3441,8 +3441,8 @@
     "id": 8476875,
     "name": "Mike Matheson",
     "team": "MTL",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -3450,8 +3450,8 @@
     "id": 8475233,
     "name": "David Savard",
     "team": "MTL",
-    "position": "D",
     "number": 58,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -3459,8 +3459,8 @@
     "id": 8481593,
     "name": "Jayden Struble",
     "team": "MTL",
-    "position": "D",
     "number": 47,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -3468,8 +3468,8 @@
     "id": 8482964,
     "name": "Arber Xhekaj",
     "team": "MTL",
-    "position": "D",
     "number": 72,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -3477,8 +3477,8 @@
     "id": 8482487,
     "name": "Jakub Dobes",
     "team": "MTL",
-    "position": "G",
     "number": 75,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -3486,8 +3486,8 @@
     "id": 8478470,
     "name": "Sam Montembeault",
     "team": "MTL",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -3495,8 +3495,8 @@
     "id": 8478047,
     "name": "Michael Bunting",
     "team": "NSH",
-    "position": "L",
     "number": 58,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -3504,8 +3504,8 @@
     "id": 8482146,
     "name": "Luke Evangelista",
     "team": "NSH",
-    "position": "R",
     "number": 77,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -3513,8 +3513,8 @@
     "id": 8476887,
     "name": "Filip Forsberg",
     "team": "NSH",
-    "position": "L",
     "number": 9,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -3522,8 +3522,8 @@
     "id": 8475287,
     "name": "Erik Haula",
     "team": "NSH",
-    "position": "L",
     "number": 56,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -3531,8 +3531,8 @@
     "id": 8482742,
     "name": "Zachary L'Heureux",
     "team": "NSH",
-    "position": "L",
     "number": 68,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -3540,8 +3540,8 @@
     "id": 8476539,
     "name": "Jonathan Marchessault",
     "team": "NSH",
-    "position": "C",
     "number": 81,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -3549,8 +3549,8 @@
     "id": 8477446,
     "name": "Michael McCarron",
     "team": "NSH",
-    "position": "R",
     "number": 47,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -3558,8 +3558,8 @@
     "id": 8475158,
     "name": "Ryan O'Reilly",
     "team": "NSH",
-    "position": "C",
     "number": 90,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -3567,8 +3567,8 @@
     "id": 8476925,
     "name": "Colton Sissons",
     "team": "NSH",
-    "position": "C",
     "number": 10,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -3576,8 +3576,8 @@
     "id": 8482062,
     "name": "Cole Smith",
     "team": "NSH",
-    "position": "L",
     "number": 36,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -3585,8 +3585,8 @@
     "id": 8474564,
     "name": "Steven Stamkos",
     "team": "NSH",
-    "position": "C",
     "number": 91,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -3594,8 +3594,8 @@
     "id": 8477944,
     "name": "Jakub Vrana",
     "team": "NSH",
-    "position": "L",
     "number": 19,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -3603,8 +3603,8 @@
     "id": 8484241,
     "name": "Matthew Wood",
     "team": "NSH",
-    "position": "R",
     "number": 52,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2005
   },
@@ -3612,8 +3612,8 @@
     "id": 8482111,
     "name": "Justin Barron",
     "team": "NSH",
-    "position": "D",
     "number": 20,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -3621,8 +3621,8 @@
     "id": 8483565,
     "name": "Nick Blankenburg",
     "team": "NSH",
-    "position": "D",
     "number": 37,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -3630,8 +3630,8 @@
     "id": 8477971,
     "name": "Andreas Englund",
     "team": "NSH",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -3639,8 +3639,8 @@
     "id": 8474600,
     "name": "Roman Josi",
     "team": "NSH",
-    "position": "D",
     "number": 59,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -3648,8 +3648,8 @@
     "id": 8478468,
     "name": "Jeremy Lauzon",
     "team": "NSH",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -3657,8 +3657,8 @@
     "id": 8477851,
     "name": "Jordan Oesterle",
     "team": "NSH",
-    "position": "D",
     "number": 82,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -3666,8 +3666,8 @@
     "id": 8476869,
     "name": "Brady Skjei",
     "team": "NSH",
-    "position": "D",
     "number": 76,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -3675,8 +3675,8 @@
     "id": 8482482,
     "name": "Adam Wilsby",
     "team": "NSH",
-    "position": "D",
     "number": 83,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -3684,8 +3684,8 @@
     "id": 8481020,
     "name": "Justus Annunen",
     "team": "NSH",
-    "position": "G",
     "number": 29,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -3693,8 +3693,8 @@
     "id": 8477424,
     "name": "Juuse Saros",
     "team": "NSH",
-    "position": "G",
     "number": 74,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -3702,8 +3702,8 @@
     "id": 8479414,
     "name": "Nathan Bastian",
     "team": "NJD",
-    "position": "R",
     "number": 14,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -3711,8 +3711,8 @@
     "id": 8479407,
     "name": "Jesper Bratt",
     "team": "NJD",
-    "position": "L",
     "number": 63,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -3720,8 +3720,8 @@
     "id": 8481032,
     "name": "Paul Cotter",
     "team": "NJD",
-    "position": "C",
     "number": 47,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -3729,8 +3729,8 @@
     "id": 8475413,
     "name": "Justin Dowling",
     "team": "NJD",
-    "position": "C",
     "number": 37,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -3738,8 +3738,8 @@
     "id": 8481518,
     "name": "Nolan Foote",
     "team": "NJD",
-    "position": "L",
     "number": 29,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -3747,8 +3747,8 @@
     "id": 8479996,
     "name": "Cody Glass",
     "team": "NJD",
-    "position": "C",
     "number": 12,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -3756,8 +3756,8 @@
     "id": 8483531,
     "name": "Brian Halonen",
     "team": "NJD",
-    "position": "L",
     "number": 48,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -3765,8 +3765,8 @@
     "id": 8482635,
     "name": "Mike Hardman",
     "team": "NJD",
-    "position": "L",
     "number": 39,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -3774,8 +3774,8 @@
     "id": 8480002,
     "name": "Nico Hischier",
     "team": "NJD",
-    "position": "C",
     "number": 13,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -3783,8 +3783,8 @@
     "id": 8481559,
     "name": "Jack Hughes",
     "team": "NJD",
-    "position": "C",
     "number": 86,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -3792,8 +3792,8 @@
     "id": 8477508,
     "name": "Curtis Lazar",
     "team": "NJD",
-    "position": "C",
     "number": 42,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -3801,8 +3801,8 @@
     "id": 8481594,
     "name": "Nathan L\u00e9gar\u00e9",
     "team": "NJD",
-    "position": "R",
     "number": 16,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -3810,8 +3810,8 @@
     "id": 8477073,
     "name": "Kurtis MacDermid",
     "team": "NJD",
-    "position": "L",
     "number": 23,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -3819,8 +3819,8 @@
     "id": 8483397,
     "name": "Marc McLaughlin",
     "team": "NJD",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -3828,8 +3828,8 @@
     "id": 8478414,
     "name": "Timo Meier",
     "team": "NJD",
-    "position": "R",
     "number": 28,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -3837,8 +3837,8 @@
     "id": 8482110,
     "name": "Dawson Mercer",
     "team": "NJD",
-    "position": "C",
     "number": 91,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -3846,8 +3846,8 @@
     "id": 8476474,
     "name": "Stefan Noesen",
     "team": "NJD",
-    "position": "R",
     "number": 11,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -3855,8 +3855,8 @@
     "id": 8476292,
     "name": "Ondrej Palat",
     "team": "NJD",
-    "position": "L",
     "number": 18,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -3864,8 +3864,8 @@
     "id": 8478466,
     "name": "Daniel Sprong",
     "team": "NJD",
-    "position": "R",
     "number": 10,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -3873,8 +3873,8 @@
     "id": 8475193,
     "name": "Tomas Tatar",
     "team": "NJD",
-    "position": "L",
     "number": 90,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -3882,8 +3882,8 @@
     "id": 8483429,
     "name": "Seamus Casey",
     "team": "NJD",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -3891,8 +3891,8 @@
     "id": 8479395,
     "name": "Dennis Cholowski",
     "team": "NJD",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -3900,8 +3900,8 @@
     "id": 8475455,
     "name": "Brenden Dillon",
     "team": "NJD",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -3909,8 +3909,8 @@
     "id": 8475208,
     "name": "Brian Dumoulin",
     "team": "NJD",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -3918,8 +3918,8 @@
     "id": 8476462,
     "name": "Dougie Hamilton",
     "team": "NJD",
-    "position": "D",
     "number": 7,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -3927,8 +3927,8 @@
     "id": 8482684,
     "name": "Luke Hughes",
     "team": "NJD",
-    "position": "D",
     "number": 43,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -3936,8 +3936,8 @@
     "id": 8480192,
     "name": "Johnathan Kovacevic",
     "team": "NJD",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -3945,8 +3945,8 @@
     "id": 8483495,
     "name": "Simon Nemec",
     "team": "NJD",
-    "position": "D",
     "number": 17,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -3954,8 +3954,8 @@
     "id": 8477488,
     "name": "Brett Pesce",
     "team": "NJD",
-    "position": "D",
     "number": 22,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -3963,8 +3963,8 @@
     "id": 8478399,
     "name": "Jonas Siegenthaler",
     "team": "NJD",
-    "position": "D",
     "number": 71,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -3972,8 +3972,8 @@
     "id": 8482873,
     "name": "Topias Vilen",
     "team": "NJD",
-    "position": "D",
     "number": 38,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -3981,8 +3981,8 @@
     "id": 8478841,
     "name": "Colton White",
     "team": "NJD",
-    "position": "D",
     "number": 45,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -3990,8 +3990,8 @@
     "id": 8474596,
     "name": "Jake Allen",
     "team": "NJD",
-    "position": "G",
     "number": 34,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -3999,8 +3999,8 @@
     "id": 8482076,
     "name": "Nico Daws",
     "team": "NJD",
-    "position": "G",
     "number": 50,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -4008,8 +4008,8 @@
     "id": 8474593,
     "name": "Jacob Markstrom",
     "team": "NJD",
-    "position": "G",
     "number": 25,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -4017,8 +4017,8 @@
     "id": 8483659,
     "name": "Isaac Poulter",
     "team": "NJD",
-    "position": "G",
     "number": 65,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -4026,8 +4026,8 @@
     "id": 8478445,
     "name": "Mathew Barzal",
     "team": "NYI",
-    "position": "C",
     "number": 13,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -4035,8 +4035,8 @@
     "id": 8475231,
     "name": "Casey Cizikas",
     "team": "NYI",
-    "position": "C",
     "number": 53,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -4044,8 +4044,8 @@
     "id": 8477407,
     "name": "Anthony Duclair",
     "team": "NYI",
-    "position": "L",
     "number": 11,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -4053,8 +4053,8 @@
     "id": 8478115,
     "name": "Pierre Engvall",
     "team": "NYI",
-    "position": "L",
     "number": 18,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -4062,8 +4062,8 @@
     "id": 8477392,
     "name": "Hudson Fasching",
     "team": "NYI",
-    "position": "R",
     "number": 20,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -4071,8 +4071,8 @@
     "id": 8483553,
     "name": "Marc Gatcomb",
     "team": "NYI",
-    "position": "C",
     "number": 16,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -4080,8 +4080,8 @@
     "id": 8481601,
     "name": "Simon Holmstrom",
     "team": "NYI",
-    "position": "R",
     "number": 10,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -4089,8 +4089,8 @@
     "id": 8477500,
     "name": "Bo Horvat",
     "team": "NYI",
-    "position": "C",
     "number": 14,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -4098,8 +4098,8 @@
     "id": 8475314,
     "name": "Anders Lee",
     "team": "NYI",
-    "position": "L",
     "number": 27,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -4107,8 +4107,8 @@
     "id": 8481237,
     "name": "Kyle MacLean",
     "team": "NYI",
-    "position": "C",
     "number": 32,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -4116,8 +4116,8 @@
     "id": 8474709,
     "name": "Matt Martin",
     "team": "NYI",
-    "position": "L",
     "number": 17,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -4125,8 +4125,8 @@
     "id": 8476419,
     "name": "Jean-Gabriel Pageau",
     "team": "NYI",
-    "position": "C",
     "number": 44,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -4134,8 +4134,8 @@
     "id": 8475151,
     "name": "Kyle Palmieri",
     "team": "NYI",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1991
   },
@@ -4143,8 +4143,8 @@
     "id": 8484958,
     "name": "Maxim Tsyplakov",
     "team": "NYI",
-    "position": "R",
     "number": 7,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -4152,8 +4152,8 @@
     "id": 8480871,
     "name": "Adam Boqvist",
     "team": "NYI",
-    "position": "D",
     "number": 34,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -4161,8 +4161,8 @@
     "id": 8477950,
     "name": "Tony DeAngelo",
     "team": "NYI",
-    "position": "D",
     "number": 4,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -4170,8 +4170,8 @@
     "id": 8480865,
     "name": "Noah Dobson",
     "team": "NYI",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -4179,8 +4179,8 @@
     "id": 8476429,
     "name": "Scott Mayfield",
     "team": "NYI",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -4188,8 +4188,8 @@
     "id": 8476917,
     "name": "Adam Pelech",
     "team": "NYI",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -4197,8 +4197,8 @@
     "id": 8481059,
     "name": "Scott Perunovich",
     "team": "NYI",
-    "position": "D",
     "number": 26,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -4206,8 +4206,8 @@
     "id": 8477506,
     "name": "Ryan Pulock",
     "team": "NYI",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -4215,8 +4215,8 @@
     "id": 8476422,
     "name": "Mike Reilly",
     "team": "NYI",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -4224,8 +4224,8 @@
     "id": 8481014,
     "name": "Alexander Romanov",
     "team": "NYI",
-    "position": "D",
     "number": 28,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -4233,8 +4233,8 @@
     "id": 8477405,
     "name": "Marcus Hogberg",
     "team": "NYI",
-    "position": "G",
     "number": 50,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -4242,8 +4242,8 @@
     "id": 8478009,
     "name": "Ilya Sorokin",
     "team": "NYI",
-    "position": "G",
     "number": 30,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -4251,8 +4251,8 @@
     "id": 8473575,
     "name": "Semyon Varlamov",
     "team": "NYI",
-    "position": "G",
     "number": 40,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1988
   },
@@ -4260,8 +4260,8 @@
     "id": 8477979,
     "name": "Nicolas Aube-Kubel",
     "team": "NYR",
-    "position": "R",
     "number": 96,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -4269,8 +4269,8 @@
     "id": 8482132,
     "name": "Brett Berard",
     "team": "NYR",
-    "position": "L",
     "number": 65,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4278,8 +4278,8 @@
     "id": 8477380,
     "name": "Jonny Brodzinski",
     "team": "NYR",
-    "position": "C",
     "number": 22,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -4287,8 +4287,8 @@
     "id": 8475842,
     "name": "Sam Carrick",
     "team": "NYR",
-    "position": "C",
     "number": 39,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -4296,8 +4296,8 @@
     "id": 8482157,
     "name": "Will Cuylle",
     "team": "NYR",
-    "position": "L",
     "number": 50,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4305,8 +4305,8 @@
     "id": 8481726,
     "name": "Adam Edstrom",
     "team": "NYR",
-    "position": "C",
     "number": 84,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -4314,8 +4314,8 @@
     "id": 8481560,
     "name": "Arthur Kaliyev",
     "team": "NYR",
-    "position": "R",
     "number": 34,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -4323,8 +4323,8 @@
     "id": 8482109,
     "name": "Alexis Lafreni\u00e8re",
     "team": "NYR",
-    "position": "L",
     "number": 13,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -4332,8 +4332,8 @@
     "id": 8476468,
     "name": "J.T. Miller",
     "team": "NYR",
-    "position": "L",
     "number": 8,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -4341,8 +4341,8 @@
     "id": 8482747,
     "name": "Brennan Othmann",
     "team": "NYR",
-    "position": "L",
     "number": 78,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -4350,8 +4350,8 @@
     "id": 8478550,
     "name": "Artemi Panarin",
     "team": "NYR",
-    "position": "L",
     "number": 10,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1991
   },
@@ -4359,8 +4359,8 @@
     "id": 8481704,
     "name": "Juuso Parssinen",
     "team": "NYR",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -4368,8 +4368,8 @@
     "id": 8484210,
     "name": "Gabe Perreault",
     "team": "NYR",
-    "position": "R",
     "number": 94,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2005
   },
@@ -4377,8 +4377,8 @@
     "id": 8482460,
     "name": "Matt Rempe",
     "team": "NYR",
-    "position": "C",
     "number": 73,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -4386,8 +4386,8 @@
     "id": 8476389,
     "name": "Vincent Trocheck",
     "team": "NYR",
-    "position": "C",
     "number": 16,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -4395,8 +4395,8 @@
     "id": 8476459,
     "name": "Mika Zibanejad",
     "team": "NYR",
-    "position": "C",
     "number": 93,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -4404,8 +4404,8 @@
     "id": 8478840,
     "name": "Will Borgen",
     "team": "NYR",
-    "position": "D",
     "number": 17,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -4413,8 +4413,8 @@
     "id": 8475177,
     "name": "Calvin de Haan",
     "team": "NYR",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -4422,8 +4422,8 @@
     "id": 8479323,
     "name": "Adam Fox",
     "team": "NYR",
-    "position": "D",
     "number": 23,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -4431,8 +4431,8 @@
     "id": 8481708,
     "name": "Zac Jones",
     "team": "NYR",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -4440,8 +4440,8 @@
     "id": 8480817,
     "name": "K'Andre Miller",
     "team": "NYR",
-    "position": "D",
     "number": 79,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -4449,8 +4449,8 @@
     "id": 8482073,
     "name": "Braden Schneider",
     "team": "NYR",
-    "position": "D",
     "number": 4,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -4458,8 +4458,8 @@
     "id": 8477369,
     "name": "Carson Soucy",
     "team": "NYR",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -4467,8 +4467,8 @@
     "id": 8480001,
     "name": "Urho Vaakanainen",
     "team": "NYR",
-    "position": "D",
     "number": 18,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -4476,8 +4476,8 @@
     "id": 8471734,
     "name": "Jonathan Quick",
     "team": "NYR",
-    "position": "G",
     "number": 32,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1986
   },
@@ -4485,8 +4485,8 @@
     "id": 8478048,
     "name": "Igor Shesterkin",
     "team": "NYR",
-    "position": "G",
     "number": 31,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -4494,8 +4494,8 @@
     "id": 8478020,
     "name": "Michael Amadio",
     "team": "OTT",
-    "position": "R",
     "number": 22,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -4503,8 +4503,8 @@
     "id": 8480208,
     "name": "Drake Batherson",
     "team": "OTT",
-    "position": "R",
     "number": 19,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -4512,8 +4512,8 @@
     "id": 8483579,
     "name": "Wyatt Bongiovanni",
     "team": "OTT",
-    "position": "L",
     "number": 49,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -4521,8 +4521,8 @@
     "id": 8482674,
     "name": "Tyler Boucher",
     "team": "OTT",
-    "position": "R",
     "number": 54,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2003
   },
@@ -4530,8 +4530,8 @@
     "id": 8476393,
     "name": "Nick Cousins",
     "team": "OTT",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -4539,8 +4539,8 @@
     "id": 8481528,
     "name": "Dylan Cozens",
     "team": "OTT",
-    "position": "C",
     "number": 24,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -4548,8 +4548,8 @@
     "id": 8481065,
     "name": "Angus Crookshank",
     "team": "OTT",
-    "position": "L",
     "number": 59,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -4557,8 +4557,8 @@
     "id": 8478874,
     "name": "Adam Gaudette",
     "team": "OTT",
-    "position": "R",
     "number": 81,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -4566,8 +4566,8 @@
     "id": 8473512,
     "name": "Claude Giroux",
     "team": "OTT",
-    "position": "R",
     "number": 28,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1988
   },
@@ -4575,8 +4575,8 @@
     "id": 8482092,
     "name": "Ridly Greig",
     "team": "OTT",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4584,8 +4584,8 @@
     "id": 8483676,
     "name": "Stephen Halliday",
     "team": "OTT",
-    "position": "C",
     "number": 83,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4593,8 +4593,8 @@
     "id": 8478146,
     "name": "Matthew Highmore",
     "team": "OTT",
-    "position": "C",
     "number": 15,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -4602,8 +4602,8 @@
     "id": 8478173,
     "name": "Hayden Hodgson",
     "team": "OTT",
-    "position": "R",
     "number": 42,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -4611,8 +4611,8 @@
     "id": 8480890,
     "name": "Jan Jenik",
     "team": "OTT",
-    "position": "C",
     "number": 14,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -4620,8 +4620,8 @@
     "id": 8479772,
     "name": "Zack MacEwen",
     "team": "OTT",
-    "position": "R",
     "number": 17,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -4629,8 +4629,8 @@
     "id": 8474102,
     "name": "David Perron",
     "team": "OTT",
-    "position": "L",
     "number": 57,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1988
   },
@@ -4638,8 +4638,8 @@
     "id": 8479516,
     "name": "Garrett Pilon",
     "team": "OTT",
-    "position": "C",
     "number": 45,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -4647,8 +4647,8 @@
     "id": 8481596,
     "name": "Shane Pinto",
     "team": "OTT",
-    "position": "C",
     "number": 12,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -4656,8 +4656,8 @@
     "id": 8481133,
     "name": "Cole Reinhardt",
     "team": "OTT",
-    "position": "L",
     "number": 51,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -4665,8 +4665,8 @@
     "id": 8482116,
     "name": "Tim St\u00fctzle",
     "team": "OTT",
-    "position": "C",
     "number": 18,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4674,8 +4674,8 @@
     "id": 8480801,
     "name": "Brady Tkachuk",
     "team": "OTT",
-    "position": "L",
     "number": 7,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -4683,8 +4683,8 @@
     "id": 8480188,
     "name": "Fabian Zetterlund",
     "team": "OTT",
-    "position": "L",
     "number": 20,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -4692,8 +4692,8 @@
     "id": 8478469,
     "name": "Thomas Chabot",
     "team": "OTT",
-    "position": "D",
     "number": 72,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -4701,8 +4701,8 @@
     "id": 8478502,
     "name": "Dennis Gilbert",
     "team": "OTT",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -4710,8 +4710,8 @@
     "id": 8483683,
     "name": "Tomas Hamara",
     "team": "OTT",
-    "position": "D",
     "number": 98,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -4719,8 +4719,8 @@
     "id": 8474612,
     "name": "Travis Hamonic",
     "team": "OTT",
-    "position": "D",
     "number": 23,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -4728,8 +4728,8 @@
     "id": 8475324,
     "name": "Nick Jensen",
     "team": "OTT",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -4737,8 +4737,8 @@
     "id": 8482095,
     "name": "Tyler Kleven",
     "team": "OTT",
-    "position": "D",
     "number": 43,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4746,8 +4746,8 @@
     "id": 8484321,
     "name": "Nikolas Matinpalo",
     "team": "OTT",
-    "position": "D",
     "number": 33,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -4755,8 +4755,8 @@
     "id": 8482105,
     "name": "Jake Sanderson",
     "team": "OTT",
-    "position": "D",
     "number": 85,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4764,8 +4764,8 @@
     "id": 8482131,
     "name": "Donovan Sebrango",
     "team": "OTT",
-    "position": "D",
     "number": 37,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4773,8 +4773,8 @@
     "id": 8484759,
     "name": "Carter Yakemchuk",
     "team": "OTT",
-    "position": "D",
     "number": 58,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2005
   },
@@ -4782,8 +4782,8 @@
     "id": 8482245,
     "name": "Artem Zub",
     "team": "OTT",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -4791,8 +4791,8 @@
     "id": 8476341,
     "name": "Anton Forsberg",
     "team": "OTT",
-    "position": "G",
     "number": 31,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -4800,8 +4800,8 @@
     "id": 8482447,
     "name": "Leevi Meril\u00e4inen",
     "team": "OTT",
-    "position": "G",
     "number": 1,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4809,8 +4809,8 @@
     "id": 8481544,
     "name": "Mads Sogaard",
     "team": "OTT",
-    "position": "G",
     "number": 40,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -4818,8 +4818,8 @@
     "id": 8476999,
     "name": "Linus Ullmark",
     "team": "OTT",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -4827,8 +4827,8 @@
     "id": 8481553,
     "name": "Bobby Brink",
     "team": "PHI",
-    "position": "R",
     "number": 10,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -4836,8 +4836,8 @@
     "id": 8480220,
     "name": "Noah Cates",
     "team": "PHI",
-    "position": "L",
     "number": 27,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -4845,8 +4845,8 @@
     "id": 8476461,
     "name": "Sean Couturier",
     "team": "PHI",
-    "position": "C",
     "number": 14,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -4854,8 +4854,8 @@
     "id": 8475235,
     "name": "Nicolas Deslauriers",
     "team": "PHI",
-    "position": "L",
     "number": 44,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -4863,8 +4863,8 @@
     "id": 8485483,
     "name": "Karsen Dorwart",
     "team": "PHI",
-    "position": "L",
     "number": 23,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -4872,8 +4872,8 @@
     "id": 8482159,
     "name": "Tyson Foerster",
     "team": "PHI",
-    "position": "R",
     "number": 71,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -4881,8 +4881,8 @@
     "id": 8477903,
     "name": "Garnet Hathaway",
     "team": "PHI",
-    "position": "R",
     "number": 19,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1991
   },
@@ -4890,8 +4890,8 @@
     "id": 8483461,
     "name": "Devin Kaplan",
     "team": "PHI",
-    "position": "R",
     "number": 68,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -4899,8 +4899,8 @@
     "id": 8478439,
     "name": "Travis Konecny",
     "team": "PHI",
-    "position": "R",
     "number": 11,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -4908,8 +4908,8 @@
     "id": 8484387,
     "name": "Matvei Michkov",
     "team": "PHI",
-    "position": "R",
     "number": 39,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -4917,8 +4917,8 @@
     "id": 8481592,
     "name": "Jakob Pelletier",
     "team": "PHI",
-    "position": "L",
     "number": 22,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -4926,8 +4926,8 @@
     "id": 8480068,
     "name": "Ryan Poehling",
     "team": "PHI",
-    "position": "C",
     "number": 25,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -4935,8 +4935,8 @@
     "id": 8480015,
     "name": "Owen Tippett",
     "team": "PHI",
-    "position": "R",
     "number": 74,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -4944,8 +4944,8 @@
     "id": 8482142,
     "name": "Jamie Drysdale",
     "team": "PHI",
-    "position": "D",
     "number": 9,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -4953,8 +4953,8 @@
     "id": 8475176,
     "name": "Ryan Ellis",
     "team": "PHI",
-    "position": "D",
     "number": 94,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1991
   },
@@ -4962,8 +4962,8 @@
     "id": 8477499,
     "name": "Rasmus Ristolainen",
     "team": "PHI",
-    "position": "D",
     "number": 55,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -4971,8 +4971,8 @@
     "id": 8477948,
     "name": "Travis Sanheim",
     "team": "PHI",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -4980,8 +4980,8 @@
     "id": 8476372,
     "name": "Nick Seeler",
     "team": "PHI",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -4989,8 +4989,8 @@
     "id": 8481546,
     "name": "Cam York",
     "team": "PHI",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -4998,8 +4998,8 @@
     "id": 8481178,
     "name": "Egor Zamula",
     "team": "PHI",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -5007,8 +5007,8 @@
     "id": 8481035,
     "name": "Samuel Ersson",
     "team": "PHI",
-    "position": "G",
     "number": 33,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -5016,8 +5016,8 @@
     "id": 8478905,
     "name": "Ivan Fedotov",
     "team": "PHI",
-    "position": "G",
     "number": 82,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -5025,8 +5025,8 @@
     "id": 8482783,
     "name": "Aleksei Kolosov",
     "team": "PHI",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -5034,8 +5034,8 @@
     "id": 8478569,
     "name": "Noel Acciari",
     "team": "PIT",
-    "position": "C",
     "number": 55,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1991
   },
@@ -5043,8 +5043,8 @@
     "id": 8471675,
     "name": "Sidney Crosby",
     "team": "PIT",
-    "position": "C",
     "number": 87,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1987
   },
@@ -5052,8 +5052,8 @@
     "id": 8480980,
     "name": "Connor Dewar",
     "team": "PIT",
-    "position": "C",
     "number": 19,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -5061,8 +5061,8 @@
     "id": 8475763,
     "name": "Kevin Hayes",
     "team": "PIT",
-    "position": "R",
     "number": 13,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -5070,8 +5070,8 @@
     "id": 8478046,
     "name": "Danton Heinen",
     "team": "PIT",
-    "position": "L",
     "number": 43,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -5079,8 +5079,8 @@
     "id": 8478147,
     "name": "Bokondji Imama",
     "team": "PIT",
-    "position": "L",
     "number": 14,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -5088,8 +5088,8 @@
     "id": 8481481,
     "name": "Blake Lizotte",
     "team": "PIT",
-    "position": "C",
     "number": 46,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -5097,8 +5097,8 @@
     "id": 8471215,
     "name": "Evgeni Malkin",
     "team": "PIT",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1986
   },
@@ -5106,8 +5106,8 @@
     "id": 8483487,
     "name": "Rutger McGroarty",
     "team": "PIT",
-    "position": "R",
     "number": 2,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -5115,8 +5115,8 @@
     "id": 8476442,
     "name": "Matt Nieto",
     "team": "PIT",
-    "position": "L",
     "number": 83,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -5124,8 +5124,8 @@
     "id": 8478438,
     "name": "Tommy Novak",
     "team": "PIT",
-    "position": "C",
     "number": 18,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -5133,8 +5133,8 @@
     "id": 8476483,
     "name": "Rickard Rakell",
     "team": "PIT",
-    "position": "R",
     "number": 67,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -5142,8 +5142,8 @@
     "id": 8475810,
     "name": "Bryan Rust",
     "team": "PIT",
-    "position": "R",
     "number": 17,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -5151,8 +5151,8 @@
     "id": 8481577,
     "name": "Philip Tomasino",
     "team": "PIT",
-    "position": "C",
     "number": 53,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -5160,8 +5160,8 @@
     "id": 8477435,
     "name": "Ryan Graves",
     "team": "PIT",
-    "position": "D",
     "number": 27,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -5169,8 +5169,8 @@
     "id": 8476891,
     "name": "Matt Grzelcyk",
     "team": "PIT",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -5178,8 +5178,8 @@
     "id": 8480058,
     "name": "P.O Joseph",
     "team": "PIT",
-    "position": "D",
     "number": 73,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -5187,8 +5187,8 @@
     "id": 8474578,
     "name": "Erik Karlsson",
     "team": "PIT",
-    "position": "D",
     "number": 65,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -5196,8 +5196,8 @@
     "id": 8481609,
     "name": "Vladislav Kolyachonok",
     "team": "PIT",
-    "position": "D",
     "number": 23,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -5205,8 +5205,8 @@
     "id": 8471724,
     "name": "Kris Letang",
     "team": "PIT",
-    "position": "D",
     "number": 58,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1987
   },
@@ -5214,8 +5214,8 @@
     "id": 8478854,
     "name": "Ryan Shea",
     "team": "PIT",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -5223,8 +5223,8 @@
     "id": 8479982,
     "name": "Conor Timmins",
     "team": "PIT",
-    "position": "D",
     "number": 20,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -5232,8 +5232,8 @@
     "id": 8477465,
     "name": "Tristan Jarry",
     "team": "PIT",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -5241,8 +5241,8 @@
     "id": 8477968,
     "name": "Alex Nedeljkovic",
     "team": "PIT",
-    "position": "G",
     "number": 39,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -5250,8 +5250,8 @@
     "id": 8482133,
     "name": "Thomas Bordeleau",
     "team": "SJS",
-    "position": "C",
     "number": 17,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -5259,8 +5259,8 @@
     "id": 8484801,
     "name": "Macklin Celebrini",
     "team": "SJS",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2006
   },
@@ -5268,8 +5268,8 @@
     "id": 8474053,
     "name": "Logan Couture",
     "team": "SJS",
-    "position": "C",
     "number": 39,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -5277,8 +5277,8 @@
     "id": 8480848,
     "name": "Ty Dellandrea",
     "team": "SJS",
-    "position": "C",
     "number": 53,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -5286,8 +5286,8 @@
     "id": 8482667,
     "name": "William Eklund",
     "team": "SJS",
-    "position": "L",
     "number": 72,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -5295,8 +5295,8 @@
     "id": 8476624,
     "name": "Barclay Goodrow",
     "team": "SJS",
-    "position": "R",
     "number": 23,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -5304,8 +5304,8 @@
     "id": 8479393,
     "name": "Noah Gregor",
     "team": "SJS",
-    "position": "C",
     "number": 9,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -5313,8 +5313,8 @@
     "id": 8479336,
     "name": "Carl Grundstrom",
     "team": "SJS",
-    "position": "R",
     "number": 91,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -5322,8 +5322,8 @@
     "id": 8480011,
     "name": "Klim Kostin",
     "team": "SJS",
-    "position": "C",
     "number": 10,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -5331,8 +5331,8 @@
     "id": 8481042,
     "name": "Nikolai Kovalenko",
     "team": "SJS",
-    "position": "R",
     "number": 15,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -5340,8 +5340,8 @@
     "id": 8483481,
     "name": "Cam Lund",
     "team": "SJS",
-    "position": "C",
     "number": 46,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -5349,8 +5349,8 @@
     "id": 8484227,
     "name": "Will Smith",
     "team": "SJS",
-    "position": "C",
     "number": 2,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2005
   },
@@ -5358,8 +5358,8 @@
     "id": 8475726,
     "name": "Tyler Toffoli",
     "team": "SJS",
-    "position": "C",
     "number": 73,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -5367,8 +5367,8 @@
     "id": 8477505,
     "name": "Alexander Wennberg",
     "team": "SJS",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -5376,8 +5376,8 @@
     "id": 8479576,
     "name": "Vincent Desharnais",
     "team": "SJS",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -5385,8 +5385,8 @@
     "id": 8479983,
     "name": "Mario Ferraro",
     "team": "SJS",
-    "position": "D",
     "number": 38,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -5394,8 +5394,8 @@
     "id": 8480043,
     "name": "Timothy Liljegren",
     "team": "SJS",
-    "position": "D",
     "number": 37,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -5403,8 +5403,8 @@
     "id": 8482166,
     "name": "Shakir Mukhamadullin",
     "team": "SJS",
-    "position": "D",
     "number": 85,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -5412,8 +5412,8 @@
     "id": 8480172,
     "name": "Jan Rutta",
     "team": "SJS",
-    "position": "D",
     "number": 84,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -5421,8 +5421,8 @@
     "id": 8481567,
     "name": "Henry Thrun",
     "team": "SJS",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -5430,8 +5430,8 @@
     "id": 8471709,
     "name": "Marc-Edouard Vlasic",
     "team": "SJS",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1987
   },
@@ -5439,8 +5439,8 @@
     "id": 8480382,
     "name": "Alexandar Georgiev",
     "team": "SJS",
-    "position": "G",
     "number": 40,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -5448,8 +5448,8 @@
     "id": 8484312,
     "name": "Georgi Romanov",
     "team": "SJS",
-    "position": "G",
     "number": 31,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -5457,8 +5457,8 @@
     "id": 8482665,
     "name": "Matty Beniers",
     "team": "SEA",
-    "position": "C",
     "number": 10,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -5466,8 +5466,8 @@
     "id": 8477444,
     "name": "Andre Burakovsky",
     "team": "SEA",
-    "position": "L",
     "number": 95,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -5475,8 +5475,8 @@
     "id": 8474586,
     "name": "Jordan Eberle",
     "team": "SEA",
-    "position": "R",
     "number": 7,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -5484,8 +5484,8 @@
     "id": 8479591,
     "name": "Michael Eyssimont",
     "team": "SEA",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -5493,8 +5493,8 @@
     "id": 8477401,
     "name": "John Hayden",
     "team": "SEA",
-    "position": "C",
     "number": 15,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -5502,8 +5502,8 @@
     "id": 8481554,
     "name": "Kaapo Kakko",
     "team": "SEA",
-    "position": "R",
     "number": 84,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -5511,8 +5511,8 @@
     "id": 8481789,
     "name": "Tye Kartye",
     "team": "SEA",
-    "position": "L",
     "number": 12,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -5520,8 +5520,8 @@
     "id": 8478975,
     "name": "Mason Marchment",
     "team": "SEA",
-    "position": "L",
     "number": null,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -5529,8 +5529,8 @@
     "id": 8477955,
     "name": "Jared McCann",
     "team": "SEA",
-    "position": "L",
     "number": 19,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -5538,8 +5538,8 @@
     "id": 8475768,
     "name": "Jaden Schwartz",
     "team": "SEA",
-    "position": "C",
     "number": 17,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -5547,8 +5547,8 @@
     "id": 8476905,
     "name": "Chandler Stephenson",
     "team": "SEA",
-    "position": "C",
     "number": 9,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -5556,8 +5556,8 @@
     "id": 8480009,
     "name": "Eeli Tolvanen",
     "team": "SEA",
-    "position": "R",
     "number": 20,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -5565,8 +5565,8 @@
     "id": 8483524,
     "name": "Shane Wright",
     "team": "SEA",
-    "position": "C",
     "number": 51,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -5574,8 +5574,8 @@
     "id": 8478407,
     "name": "Vince Dunn",
     "team": "SEA",
-    "position": "D",
     "number": 29,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -5583,8 +5583,8 @@
     "id": 8482858,
     "name": "Ryker Evans",
     "team": "SEA",
-    "position": "D",
     "number": 41,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -5592,8 +5592,8 @@
     "id": 8476457,
     "name": "Adam Larsson",
     "team": "SEA",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -5601,8 +5601,8 @@
     "id": 8479372,
     "name": "Joshua Mahura",
     "team": "SEA",
-    "position": "D",
     "number": 28,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -5610,8 +5610,8 @@
     "id": 8477986,
     "name": "Brandon Montour",
     "team": "SEA",
-    "position": "D",
     "number": 62,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -5619,8 +5619,8 @@
     "id": 8476467,
     "name": "Jamie Oleksiak",
     "team": "SEA",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -5628,8 +5628,8 @@
     "id": 8478916,
     "name": "Joey Daccord",
     "team": "SEA",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -5637,8 +5637,8 @@
     "id": 8475831,
     "name": "Philipp Grubauer",
     "team": "SEA",
-    "position": "G",
     "number": 31,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -5646,8 +5646,8 @@
     "id": 8482737,
     "name": "Zack Bolduc",
     "team": "STL",
-    "position": "R",
     "number": 76,
+    "position": "R",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -5655,8 +5655,8 @@
     "id": 8477402,
     "name": "Pavel Buchnevich",
     "team": "STL",
-    "position": "L",
     "number": 89,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -5664,8 +5664,8 @@
     "id": 8476889,
     "name": "Radek Faksa",
     "team": "STL",
-    "position": "C",
     "number": 12,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -5673,8 +5673,8 @@
     "id": 8482077,
     "name": "Dylan Holloway",
     "team": "STL",
-    "position": "L",
     "number": 81,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -5682,8 +5682,8 @@
     "id": 8478472,
     "name": "Mathieu Joseph",
     "team": "STL",
-    "position": "R",
     "number": 71,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -5691,8 +5691,8 @@
     "id": 8479385,
     "name": "Jordan Kyrou",
     "team": "STL",
-    "position": "R",
     "number": 25,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -5700,8 +5700,8 @@
     "id": 8482089,
     "name": "Jake Neighbours",
     "team": "STL",
-    "position": "L",
     "number": 63,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -5709,8 +5709,8 @@
     "id": 8475170,
     "name": "Brayden Schenn",
     "team": "STL",
-    "position": "C",
     "number": 10,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -5718,8 +5718,8 @@
     "id": 8483516,
     "name": "Jimmy Snuggerud",
     "team": "STL",
-    "position": "R",
     "number": 21,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -5727,8 +5727,8 @@
     "id": 8476897,
     "name": "Oskar Sundqvist",
     "team": "STL",
-    "position": "C",
     "number": 70,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -5736,8 +5736,8 @@
     "id": 8480074,
     "name": "Alexandre Texier",
     "team": "STL",
-    "position": "L",
     "number": 9,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -5745,8 +5745,8 @@
     "id": 8480023,
     "name": "Robert Thomas",
     "team": "STL",
-    "position": "C",
     "number": 18,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -5754,8 +5754,8 @@
     "id": 8480281,
     "name": "Alexey Toropchenko",
     "team": "STL",
-    "position": "R",
     "number": 13,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -5763,8 +5763,8 @@
     "id": 8477573,
     "name": "Nathan Walker",
     "team": "STL",
-    "position": "L",
     "number": 26,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -5772,8 +5772,8 @@
     "id": 8481598,
     "name": "Philip Broberg",
     "team": "STL",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -5781,8 +5781,8 @@
     "id": 8475753,
     "name": "Justin Faulk",
     "team": "STL",
-    "position": "D",
     "number": 72,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -5790,8 +5790,8 @@
     "id": 8475764,
     "name": "Cam Fowler",
     "team": "STL",
-    "position": "D",
     "number": 17,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -5799,8 +5799,8 @@
     "id": 8482516,
     "name": "Matthew Kessel",
     "team": "STL",
-    "position": "D",
     "number": 51,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -5808,8 +5808,8 @@
     "id": 8475181,
     "name": "Nick Leddy",
     "team": "STL",
-    "position": "D",
     "number": 4,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -5817,8 +5817,8 @@
     "id": 8476892,
     "name": "Colton Parayko",
     "team": "STL",
-    "position": "D",
     "number": 55,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -5826,8 +5826,8 @@
     "id": 8470600,
     "name": "Ryan Suter",
     "team": "STL",
-    "position": "D",
     "number": 22,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1985
   },
@@ -5835,8 +5835,8 @@
     "id": 8481006,
     "name": "Tyler Tucker",
     "team": "STL",
-    "position": "D",
     "number": 75,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -5844,8 +5844,8 @@
     "id": 8476412,
     "name": "Jordan Binnington",
     "team": "STL",
-    "position": "G",
     "number": 50,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -5853,8 +5853,8 @@
     "id": 8480981,
     "name": "Joel Hofer",
     "team": "STL",
-    "position": "G",
     "number": 30,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -5862,8 +5862,8 @@
     "id": 8474715,
     "name": "Cam Atkinson",
     "team": "TBL",
-    "position": "R",
     "number": 13,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1989
   },
@@ -5871,8 +5871,8 @@
     "id": 8477416,
     "name": "Oliver Bjorkstrand",
     "team": "TBL",
-    "position": "R",
     "number": 22,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -5880,8 +5880,8 @@
     "id": 8482070,
     "name": "Mitchell Chaffee",
     "team": "TBL",
-    "position": "R",
     "number": 41,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -5889,8 +5889,8 @@
     "id": 8478519,
     "name": "Anthony Cirelli",
     "team": "TBL",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -5898,8 +5898,8 @@
     "id": 8476878,
     "name": "Zemgus Girgensons",
     "team": "TBL",
-    "position": "C",
     "number": 28,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -5907,8 +5907,8 @@
     "id": 8476822,
     "name": "Luke Glendening",
     "team": "TBL",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1989
   },
@@ -5916,8 +5916,8 @@
     "id": 8482201,
     "name": "Gage Goncalves",
     "team": "TBL",
-    "position": "C",
     "number": 93,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -5925,8 +5925,8 @@
     "id": 8476826,
     "name": "Yanni Gourde",
     "team": "TBL",
-    "position": "C",
     "number": 37,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -5934,8 +5934,8 @@
     "id": 8477404,
     "name": "Jake Guentzel",
     "team": "TBL",
-    "position": "C",
     "number": 59,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -5943,8 +5943,8 @@
     "id": 8479542,
     "name": "Brandon Hagel",
     "team": "TBL",
-    "position": "L",
     "number": 38,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -5952,8 +5952,8 @@
     "id": 8476453,
     "name": "Nikita Kucherov",
     "team": "TBL",
-    "position": "R",
     "number": 86,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -5961,8 +5961,8 @@
     "id": 8477426,
     "name": "Nick Paul",
     "team": "TBL",
-    "position": "L",
     "number": 20,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -5970,8 +5970,8 @@
     "id": 8478010,
     "name": "Brayden Point",
     "team": "TBL",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -5979,8 +5979,8 @@
     "id": 8478416,
     "name": "Erik Cernak",
     "team": "TBL",
-    "position": "D",
     "number": 81,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -5988,8 +5988,8 @@
     "id": 8475167,
     "name": "Victor Hedman",
     "team": "TBL",
-    "position": "D",
     "number": 77,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -5997,8 +5997,8 @@
     "id": 8482929,
     "name": "Emil Lilleberg",
     "team": "TBL",
-    "position": "D",
     "number": 78,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -6006,8 +6006,8 @@
     "id": 8474151,
     "name": "Ryan McDonagh",
     "team": "TBL",
-    "position": "D",
     "number": 27,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -6015,8 +6015,8 @@
     "id": 8482655,
     "name": "J.J. Moser",
     "team": "TBL",
-    "position": "D",
     "number": 90,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -6024,8 +6024,8 @@
     "id": 8480246,
     "name": "Nick Perbix",
     "team": "TBL",
-    "position": "D",
     "number": 48,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -6033,8 +6033,8 @@
     "id": 8478178,
     "name": "Darren Raddysh",
     "team": "TBL",
-    "position": "D",
     "number": 43,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -6042,8 +6042,8 @@
     "id": 8477992,
     "name": "Jonas Johansson",
     "team": "TBL",
-    "position": "G",
     "number": 31,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -6051,8 +6051,8 @@
     "id": 8476883,
     "name": "Andrei Vasilevskiy",
     "team": "TBL",
-    "position": "G",
     "number": 88,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -6060,8 +6060,8 @@
     "id": 8481720,
     "name": "Nick Abruzzese",
     "team": "TOR",
-    "position": "C",
     "number": 26,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -6069,8 +6069,8 @@
     "id": 8477503,
     "name": "Max Domi",
     "team": "TOR",
-    "position": "C",
     "number": 11,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -6078,8 +6078,8 @@
     "id": 8482130,
     "name": "Roni Hirvonen",
     "team": "TOR",
-    "position": "C",
     "number": 33,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -6087,8 +6087,8 @@
     "id": 8480995,
     "name": "Pontus Holmberg",
     "team": "TOR",
-    "position": "R",
     "number": 29,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -6096,8 +6096,8 @@
     "id": 8475714,
     "name": "Calle Jarnkrok",
     "team": "TOR",
-    "position": "C",
     "number": 19,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1991
   },
@@ -6105,8 +6105,8 @@
     "id": 8481147,
     "name": "Reese Johnson",
     "team": "TOR",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -6114,8 +6114,8 @@
     "id": 8480144,
     "name": "David Kampf",
     "team": "TOR",
-    "position": "C",
     "number": 64,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -6123,8 +6123,8 @@
     "id": 8482720,
     "name": "Matthew Knies",
     "team": "TOR",
-    "position": "L",
     "number": 23,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -6132,8 +6132,8 @@
     "id": 8476872,
     "name": "Scott Laughton",
     "team": "TOR",
-    "position": "L",
     "number": 24,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -6141,8 +6141,8 @@
     "id": 8478904,
     "name": "Steven Lorentz",
     "team": "TOR",
-    "position": "C",
     "number": 18,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -6150,8 +6150,8 @@
     "id": 8478483,
     "name": "Mitch Marner",
     "team": "TOR",
-    "position": "R",
     "number": 16,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -6159,8 +6159,8 @@
     "id": 8479318,
     "name": "Auston Matthews",
     "team": "TOR",
-    "position": "C",
     "number": 34,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -6168,8 +6168,8 @@
     "id": 8482259,
     "name": "Bobby McMann",
     "team": "TOR",
-    "position": "C",
     "number": 74,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -6177,8 +6177,8 @@
     "id": 8479423,
     "name": "Alex Nylander",
     "team": "TOR",
-    "position": "L",
     "number": 92,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -6186,8 +6186,8 @@
     "id": 8477939,
     "name": "William Nylander",
     "team": "TOR",
-    "position": "R",
     "number": 88,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -6195,8 +6195,8 @@
     "id": 8474157,
     "name": "Max Pacioretty",
     "team": "TOR",
-    "position": "L",
     "number": 67,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1988
   },
@@ -6204,8 +6204,8 @@
     "id": 8484901,
     "name": "Jacob Quillan",
     "team": "TOR",
-    "position": "C",
     "number": 61,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -6213,8 +6213,8 @@
     "id": 8471817,
     "name": "Ryan Reaves",
     "team": "TOR",
-    "position": "R",
     "number": 75,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1987
   },
@@ -6222,8 +6222,8 @@
     "id": 8481582,
     "name": "Nicholas Robertson",
     "team": "TOR",
-    "position": "L",
     "number": 89,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -6231,8 +6231,8 @@
     "id": 8482634,
     "name": "Alex Steeves",
     "team": "TOR",
-    "position": "C",
     "number": 46,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -6240,8 +6240,8 @@
     "id": 8475166,
     "name": "John Tavares",
     "team": "TOR",
-    "position": "C",
     "number": 91,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1990
   },
@@ -6249,8 +6249,8 @@
     "id": 8476988,
     "name": "Matt Benning",
     "team": "TOR",
-    "position": "D",
     "number": 55,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -6258,8 +6258,8 @@
     "id": 8481122,
     "name": "Simon Benoit",
     "team": "TOR",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -6267,8 +6267,8 @@
     "id": 8478443,
     "name": "Brandon Carlo",
     "team": "TOR",
-    "position": "D",
     "number": 25,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -6276,8 +6276,8 @@
     "id": 8475171,
     "name": "Oliver Ekman-Larsson",
     "team": "TOR",
-    "position": "D",
     "number": 95,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -6285,8 +6285,8 @@
     "id": 8475825,
     "name": "Jani Hakanp\u00e4\u00e4",
     "team": "TOR",
-    "position": "D",
     "number": 28,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -6294,8 +6294,8 @@
     "id": 8481614,
     "name": "Mikko Kokkonen",
     "team": "TOR",
-    "position": "D",
     "number": 84,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -6303,8 +6303,8 @@
     "id": 8476931,
     "name": "Jake McCabe",
     "team": "TOR",
-    "position": "D",
     "number": 22,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -6312,8 +6312,8 @@
     "id": 8477541,
     "name": "Dakota Mermis",
     "team": "TOR",
-    "position": "D",
     "number": 36,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -6321,8 +6321,8 @@
     "id": 8479026,
     "name": "Philippe Myers",
     "team": "TOR",
-    "position": "D",
     "number": 51,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -6330,8 +6330,8 @@
     "id": 8482158,
     "name": "Topi Niemela",
     "team": "TOR",
-    "position": "D",
     "number": 47,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -6339,8 +6339,8 @@
     "id": 8476853,
     "name": "Morgan Rielly",
     "team": "TOR",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -6348,8 +6348,8 @@
     "id": 8483546,
     "name": "Marshall Rifai",
     "team": "TOR",
-    "position": "D",
     "number": 83,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -6357,8 +6357,8 @@
     "id": 8475690,
     "name": "Chris Tanev",
     "team": "TOR",
-    "position": "D",
     "number": 8,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1989
   },
@@ -6366,8 +6366,8 @@
     "id": 8482174,
     "name": "William Villeneuve",
     "team": "TOR",
-    "position": "D",
     "number": 76,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -6375,8 +6375,8 @@
     "id": 8481570,
     "name": "Cade Webber",
     "team": "TOR",
-    "position": "D",
     "number": 52,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -6384,8 +6384,8 @@
     "id": 8482515,
     "name": "Artur Akhtyamov",
     "team": "TOR",
-    "position": "G",
     "number": 70,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -6393,8 +6393,8 @@
     "id": 8483710,
     "name": "Dennis Hildeby",
     "team": "TOR",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -6402,8 +6402,8 @@
     "id": 8476899,
     "name": "Matt Murray",
     "team": "TOR",
-    "position": "G",
     "number": 30,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -6411,8 +6411,8 @@
     "id": 8476932,
     "name": "Anthony Stolarz",
     "team": "TOR",
-    "position": "G",
     "number": 41,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -6420,8 +6420,8 @@
     "id": 8479361,
     "name": "Joseph Woll",
     "team": "TOR",
-    "position": "G",
     "number": 60,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -6429,8 +6429,8 @@
     "id": 8482496,
     "name": "Nils Aman",
     "team": "VAN",
-    "position": "C",
     "number": 88,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -6438,8 +6438,8 @@
     "id": 8476927,
     "name": "Teddy Blueger",
     "team": "VAN",
-    "position": "C",
     "number": 53,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -6447,8 +6447,8 @@
     "id": 8478444,
     "name": "Brock Boeser",
     "team": "VAN",
-    "position": "R",
     "number": 6,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -6456,8 +6456,8 @@
     "id": 8480078,
     "name": "Filip Chytil",
     "team": "VAN",
-    "position": "C",
     "number": 72,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -6465,8 +6465,8 @@
     "id": 8478498,
     "name": "Jake DeBrusk",
     "team": "VAN",
-    "position": "L",
     "number": 74,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -6474,8 +6474,8 @@
     "id": 8478856,
     "name": "Conor Garland",
     "team": "VAN",
-    "position": "R",
     "number": 8,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -6483,8 +6483,8 @@
     "id": 8481535,
     "name": "Nils Hoglander",
     "team": "VAN",
-    "position": "L",
     "number": 21,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -6492,8 +6492,8 @@
     "id": 8478057,
     "name": "Dakota Joshua",
     "team": "VAN",
-    "position": "C",
     "number": 81,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -6501,8 +6501,8 @@
     "id": 8482055,
     "name": "Drew O'Connor",
     "team": "VAN",
-    "position": "L",
     "number": 18,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -6510,8 +6510,8 @@
     "id": 8480012,
     "name": "Elias Pettersson",
     "team": "VAN",
-    "position": "C",
     "number": 40,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -6519,8 +6519,8 @@
     "id": 8480748,
     "name": "Kiefer Sherwood",
     "team": "VAN",
-    "position": "L",
     "number": 44,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -6528,8 +6528,8 @@
     "id": 8480459,
     "name": "Pius Suter",
     "team": "VAN",
-    "position": "C",
     "number": 24,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -6537,8 +6537,8 @@
     "id": 8475762,
     "name": "Derek Forbort",
     "team": "VAN",
-    "position": "D",
     "number": 27,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -6546,8 +6546,8 @@
     "id": 8479425,
     "name": "Filip Hronek",
     "team": "VAN",
-    "position": "D",
     "number": 17,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -6555,8 +6555,8 @@
     "id": 8480800,
     "name": "Quinn Hughes",
     "team": "VAN",
-    "position": "D",
     "number": 43,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -6564,8 +6564,8 @@
     "id": 8478454,
     "name": "Noah Juulsen",
     "team": "VAN",
-    "position": "D",
     "number": 47,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -6573,8 +6573,8 @@
     "id": 8474574,
     "name": "Tyler Myers",
     "team": "VAN",
-    "position": "D",
     "number": 57,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -6582,8 +6582,8 @@
     "id": 8483678,
     "name": "Elias Pettersson",
     "team": "VAN",
-    "position": "D",
     "number": 25,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2004
   },
@@ -6591,8 +6591,8 @@
     "id": 8477969,
     "name": "Marcus Pettersson",
     "team": "VAN",
-    "position": "D",
     "number": 29,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -6600,8 +6600,8 @@
     "id": 8477967,
     "name": "Thatcher Demko",
     "team": "VAN",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -6609,8 +6609,8 @@
     "id": 8480947,
     "name": "Kevin Lankinen",
     "team": "VAN",
-    "position": "G",
     "number": 32,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -6618,8 +6618,8 @@
     "id": 8477964,
     "name": "Ivan Barbashev",
     "team": "VGK",
-    "position": "C",
     "number": 49,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -6627,8 +6627,8 @@
     "id": 8481604,
     "name": "Pavel Dorofeyev",
     "team": "VGK",
-    "position": "L",
     "number": 16,
+    "position": "L",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -6636,8 +6636,8 @@
     "id": 8478403,
     "name": "Jack Eichel",
     "team": "VGK",
-    "position": "C",
     "number": 9,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -6645,8 +6645,8 @@
     "id": 8476881,
     "name": "Tomas Hertl",
     "team": "VGK",
-    "position": "C",
     "number": 48,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -6654,8 +6654,8 @@
     "id": 8482125,
     "name": "Alexander Holtz",
     "team": "VGK",
-    "position": "R",
     "number": 26,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2002
   },
@@ -6663,8 +6663,8 @@
     "id": 8479353,
     "name": "Brett Howden",
     "team": "VGK",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -6672,8 +6672,8 @@
     "id": 8476448,
     "name": "William Karlsson",
     "team": "VGK",
-    "position": "C",
     "number": 71,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -6681,8 +6681,8 @@
     "id": 8478434,
     "name": "Keegan Kolesar",
     "team": "VGK",
-    "position": "R",
     "number": 55,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -6690,8 +6690,8 @@
     "id": 8479550,
     "name": "Tanner Laczynski",
     "team": "VGK",
-    "position": "C",
     "number": 28,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -6699,8 +6699,8 @@
     "id": 8481534,
     "name": "Raphael Lavoie",
     "team": "VGK",
-    "position": "C",
     "number": 36,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -6708,8 +6708,8 @@
     "id": 8478109,
     "name": "Victor Olofsson",
     "team": "VGK",
-    "position": "R",
     "number": 95,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -6717,8 +6717,8 @@
     "id": 8476871,
     "name": "Tanner Pearson",
     "team": "VGK",
-    "position": "L",
     "number": 70,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -6726,8 +6726,8 @@
     "id": 8480007,
     "name": "Jonas Rondbjerg",
     "team": "VGK",
-    "position": "R",
     "number": 46,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -6735,8 +6735,8 @@
     "id": 8478462,
     "name": "Nicolas Roy",
     "team": "VGK",
-    "position": "C",
     "number": 10,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -6744,8 +6744,8 @@
     "id": 8476438,
     "name": "Brandon Saad",
     "team": "VGK",
-    "position": "L",
     "number": 20,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -6753,8 +6753,8 @@
     "id": 8481655,
     "name": "Cole Schwindt",
     "team": "VGK",
-    "position": "R",
     "number": 22,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -6762,8 +6762,8 @@
     "id": 8475191,
     "name": "Reilly Smith",
     "team": "VGK",
-    "position": "R",
     "number": 19,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -6771,8 +6771,8 @@
     "id": 8475913,
     "name": "Mark Stone",
     "team": "VGK",
-    "position": "R",
     "number": 61,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -6780,8 +6780,8 @@
     "id": 8482141,
     "name": "Lukas Cormier",
     "team": "VGK",
-    "position": "D",
     "number": 51,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -6789,8 +6789,8 @@
     "id": 8477462,
     "name": "Robert Hagg",
     "team": "VGK",
-    "position": "D",
     "number": 18,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -6798,8 +6798,8 @@
     "id": 8479980,
     "name": "Nicolas Hague",
     "team": "VGK",
-    "position": "D",
     "number": 14,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -6807,8 +6807,8 @@
     "id": 8478396,
     "name": "Noah Hanifin",
     "team": "VGK",
-    "position": "D",
     "number": 15,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -6816,8 +6816,8 @@
     "id": 8477018,
     "name": "Ben Hutton",
     "team": "VGK",
-    "position": "D",
     "number": 17,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -6825,8 +6825,8 @@
     "id": 8481527,
     "name": "Kaedan Korczak",
     "team": "VGK",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2001
   },
@@ -6834,8 +6834,8 @@
     "id": 8478062,
     "name": "Dysin Mayo",
     "team": "VGK",
-    "position": "D",
     "number": 65,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -6843,8 +6843,8 @@
     "id": 8475188,
     "name": "Brayden McNabb",
     "team": "VGK",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -6852,8 +6852,8 @@
     "id": 8474565,
     "name": "Alex Pietrangelo",
     "team": "VGK",
-    "position": "D",
     "number": 7,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -6861,8 +6861,8 @@
     "id": 8477447,
     "name": "Shea Theodore",
     "team": "VGK",
-    "position": "D",
     "number": 27,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -6870,8 +6870,8 @@
     "id": 8480727,
     "name": "Zach Whitecloud",
     "team": "VGK",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -6879,8 +6879,8 @@
     "id": 8478499,
     "name": "Adin Hill",
     "team": "VGK",
-    "position": "G",
     "number": 33,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -6888,8 +6888,8 @@
     "id": 8482761,
     "name": "Carl Lindbom",
     "team": "VGK",
-    "position": "G",
     "number": 30,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2003
   },
@@ -6897,8 +6897,8 @@
     "id": 8478492,
     "name": "Ilya Samsonov",
     "team": "VGK",
-    "position": "G",
     "number": 35,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -6906,8 +6906,8 @@
     "id": 8481033,
     "name": "Akira Schmid",
     "team": "VGK",
-    "position": "G",
     "number": 40,
+    "position": "G",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -6915,8 +6915,8 @@
     "id": 8473563,
     "name": "Nicklas Backstrom",
     "team": "WSH",
-    "position": "C",
     "number": 19,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1987
   },
@@ -6924,8 +6924,8 @@
     "id": 8478463,
     "name": "Anthony Beauvillier",
     "team": "WSH",
-    "position": "L",
     "number": 72,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -6933,8 +6933,8 @@
     "id": 8475343,
     "name": "Nic Dowd",
     "team": "WSH",
-    "position": "C",
     "number": 26,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -6942,8 +6942,8 @@
     "id": 8479400,
     "name": "Pierre-Luc Dubois",
     "team": "WSH",
-    "position": "L",
     "number": 80,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -6951,8 +6951,8 @@
     "id": 8479520,
     "name": "Brandon Duhaime",
     "team": "WSH",
-    "position": "R",
     "number": 22,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -6960,8 +6960,8 @@
     "id": 8474189,
     "name": "Lars Eller",
     "team": "WSH",
-    "position": "C",
     "number": 20,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1989
   },
@@ -6969,8 +6969,8 @@
     "id": 8483573,
     "name": "Ethen Frank",
     "team": "WSH",
-    "position": "C",
     "number": 53,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -6978,8 +6978,8 @@
     "id": 8484186,
     "name": "Ryan Leonard",
     "team": "WSH",
-    "position": "R",
     "number": 9,
+    "position": "R",
     "shoots": "R",
     "birthYear": 2005
   },
@@ -6987,8 +6987,8 @@
     "id": 8478233,
     "name": "Andrew Mangiapane",
     "team": "WSH",
-    "position": "L",
     "number": 88,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -6996,8 +6996,8 @@
     "id": 8481580,
     "name": "Connor McMichael",
     "team": "WSH",
-    "position": "C",
     "number": 24,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -7005,8 +7005,8 @@
     "id": 8477947,
     "name": "Sonny Milano",
     "team": "WSH",
-    "position": "L",
     "number": 15,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -7014,8 +7014,8 @@
     "id": 8471698,
     "name": "T.J. Oshie",
     "team": "WSH",
-    "position": "R",
     "number": 77,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1986
   },
@@ -7023,8 +7023,8 @@
     "id": 8471214,
     "name": "Alex Ovechkin",
     "team": "WSH",
-    "position": "L",
     "number": 8,
+    "position": "L",
     "shoots": "R",
     "birthYear": 1985
   },
@@ -7032,8 +7032,8 @@
     "id": 8481656,
     "name": "Aliaksei Protas",
     "team": "WSH",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -7041,8 +7041,8 @@
     "id": 8479390,
     "name": "Taylor Raddysh",
     "team": "WSH",
-    "position": "R",
     "number": 16,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -7050,8 +7050,8 @@
     "id": 8478440,
     "name": "Dylan Strome",
     "team": "WSH",
-    "position": "C",
     "number": 17,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1997
   },
@@ -7059,8 +7059,8 @@
     "id": 8476880,
     "name": "Tom Wilson",
     "team": "WSH",
-    "position": "R",
     "number": 43,
+    "position": "R",
     "shoots": "R",
     "birthYear": 1994
   },
@@ -7068,8 +7068,8 @@
     "id": 8480823,
     "name": "Alexander Alexeyev",
     "team": "WSH",
-    "position": "D",
     "number": 27,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -7077,8 +7077,8 @@
     "id": 8474590,
     "name": "John Carlson",
     "team": "WSH",
-    "position": "D",
     "number": 74,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1990
   },
@@ -7086,8 +7086,8 @@
     "id": 8479345,
     "name": "Jakob Chychrun",
     "team": "WSH",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -7095,8 +7095,8 @@
     "id": 8480796,
     "name": "Martin Feh\u00e9rv\u00e1ry",
     "team": "WSH",
-    "position": "D",
     "number": 42,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -7104,8 +7104,8 @@
     "id": 8475795,
     "name": "Dylan McIlrath",
     "team": "WSH",
-    "position": "D",
     "number": 52,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -7113,8 +7113,8 @@
     "id": 8478911,
     "name": "Matt Roy",
     "team": "WSH",
-    "position": "D",
     "number": 3,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -7122,8 +7122,8 @@
     "id": 8480873,
     "name": "Rasmus Sandin",
     "team": "WSH",
-    "position": "D",
     "number": 38,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -7131,8 +7131,8 @@
     "id": 8477845,
     "name": "Trevor van Riemsdyk",
     "team": "WSH",
-    "position": "D",
     "number": 57,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1991
   },
@@ -7140,8 +7140,8 @@
     "id": 8479292,
     "name": "Charlie Lindgren",
     "team": "WSH",
-    "position": "G",
     "number": 79,
+    "position": "G",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -7149,8 +7149,8 @@
     "id": 8480313,
     "name": "Logan Thompson",
     "team": "WSH",
-    "position": "G",
     "number": 48,
+    "position": "G",
     "shoots": "R",
     "birthYear": 1997
   },
@@ -7158,8 +7158,8 @@
     "id": 8479994,
     "name": "Jaret Anderson-Dolan",
     "team": "WPG",
-    "position": "C",
     "number": 28,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -7167,8 +7167,8 @@
     "id": 8478891,
     "name": "Mason Appleton",
     "team": "WPG",
-    "position": "C",
     "number": 22,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1996
   },
@@ -7176,8 +7176,8 @@
     "id": 8480289,
     "name": "Morgan Barron",
     "team": "WPG",
-    "position": "C",
     "number": 36,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -7185,8 +7185,8 @@
     "id": 8478398,
     "name": "Kyle Connor",
     "team": "WPG",
-    "position": "L",
     "number": 81,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -7194,8 +7194,8 @@
     "id": 8477940,
     "name": "Nikolaj Ehlers",
     "team": "WPG",
-    "position": "L",
     "number": 27,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -7203,8 +7203,8 @@
     "id": 8484135,
     "name": "Parker Ford",
     "team": "WPG",
-    "position": "C",
     "number": 73,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -7212,8 +7212,8 @@
     "id": 8481019,
     "name": "David Gustafsson",
     "team": "WPG",
-    "position": "C",
     "number": 19,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2000
   },
@@ -7221,8 +7221,8 @@
     "id": 8480113,
     "name": "Alex Iafallo",
     "team": "WPG",
-    "position": "L",
     "number": 9,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -7230,8 +7230,8 @@
     "id": 8480845,
     "name": "Rasmus Kupari",
     "team": "WPG",
-    "position": "C",
     "number": 15,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2000
   },
@@ -7239,8 +7239,8 @@
     "id": 8476392,
     "name": "Adam Lowry",
     "team": "WPG",
-    "position": "C",
     "number": 17,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1993
   },
@@ -7248,8 +7248,8 @@
     "id": 8476480,
     "name": "Vladislav Namestnikov",
     "team": "WPG",
-    "position": "C",
     "number": 7,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -7257,8 +7257,8 @@
     "id": 8475799,
     "name": "Nino Niederreiter",
     "team": "WPG",
-    "position": "R",
     "number": 62,
+    "position": "R",
     "shoots": "L",
     "birthYear": 1992
   },
@@ -7266,8 +7266,8 @@
     "id": 8482149,
     "name": "Cole Perfetti",
     "team": "WPG",
-    "position": "C",
     "number": 91,
+    "position": "C",
     "shoots": "L",
     "birthYear": 2002
   },
@@ -7275,8 +7275,8 @@
     "id": 8476460,
     "name": "Mark Scheifele",
     "team": "WPG",
-    "position": "C",
     "number": 55,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -7284,8 +7284,8 @@
     "id": 8479972,
     "name": "Mason Shaw",
     "team": "WPG",
-    "position": "C",
     "number": 23,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -7293,8 +7293,8 @@
     "id": 8479293,
     "name": "Brandon Tanev",
     "team": "WPG",
-    "position": "L",
     "number": 73,
+    "position": "L",
     "shoots": "L",
     "birthYear": 1991
   },
@@ -7302,8 +7302,8 @@
     "id": 8476952,
     "name": "Dominic Toninato",
     "team": "WPG",
-    "position": "C",
     "number": 21,
+    "position": "C",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -7311,8 +7311,8 @@
     "id": 8480014,
     "name": "Gabriel Vilardi",
     "team": "WPG",
-    "position": "C",
     "number": 13,
+    "position": "C",
     "shoots": "R",
     "birthYear": 1999
   },
@@ -7320,8 +7320,8 @@
     "id": 8484242,
     "name": "Brayden Yager",
     "team": "WPG",
-    "position": "C",
     "number": 29,
+    "position": "C",
     "shoots": "R",
     "birthYear": 2005
   },
@@ -7329,8 +7329,8 @@
     "id": 8479639,
     "name": "Dylan Coghlan",
     "team": "WPG",
-    "position": "D",
     "number": 52,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1998
   },
@@ -7338,8 +7338,8 @@
     "id": 8476331,
     "name": "Dylan DeMelo",
     "team": "WPG",
-    "position": "D",
     "number": 2,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1993
   },
@@ -7347,8 +7347,8 @@
     "id": 8477938,
     "name": "Haydn Fleury",
     "team": "WPG",
-    "position": "D",
     "number": 24,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1996
   },
@@ -7356,8 +7356,8 @@
     "id": 8481572,
     "name": "Ville Heinola",
     "team": "WPG",
-    "position": "D",
     "number": 14,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -7365,8 +7365,8 @@
     "id": 8476525,
     "name": "Colin Miller",
     "team": "WPG",
-    "position": "D",
     "number": 6,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1992
   },
@@ -7374,8 +7374,8 @@
     "id": 8477504,
     "name": "Josh Morrissey",
     "team": "WPG",
-    "position": "D",
     "number": 44,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -7383,8 +7383,8 @@
     "id": 8482192,
     "name": "Isaak Phillips",
     "team": "WPG",
-    "position": "D",
     "number": null,
+    "position": "D",
     "shoots": "L",
     "birthYear": 2001
   },
@@ -7392,8 +7392,8 @@
     "id": 8480145,
     "name": "Neal Pionk",
     "team": "WPG",
-    "position": "D",
     "number": 4,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1995
   },
@@ -7401,8 +7401,8 @@
     "id": 8483510,
     "name": "Elias Salomonsson",
     "team": "WPG",
-    "position": "D",
     "number": 57,
+    "position": "D",
     "shoots": "R",
     "birthYear": 2004
   },
@@ -7410,8 +7410,8 @@
     "id": 8480049,
     "name": "Dylan Samberg",
     "team": "WPG",
-    "position": "D",
     "number": 54,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1999
   },
@@ -7419,8 +7419,8 @@
     "id": 8474568,
     "name": "Luke Schenn",
     "team": "WPG",
-    "position": "D",
     "number": 5,
+    "position": "D",
     "shoots": "R",
     "birthYear": 1989
   },
@@ -7428,8 +7428,8 @@
     "id": 8479378,
     "name": "Logan Stanley",
     "team": "WPG",
-    "position": "D",
     "number": 64,
+    "position": "D",
     "shoots": "L",
     "birthYear": 1998
   },
@@ -7437,8 +7437,8 @@
     "id": 8477480,
     "name": "Eric Comrie",
     "team": "WPG",
-    "position": "G",
     "number": 1,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1995
   },
@@ -7446,8 +7446,8 @@
     "id": 8476904,
     "name": "Chris Driedger",
     "team": "WPG",
-    "position": "G",
     "number": 60,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1994
   },
@@ -7455,8 +7455,8 @@
     "id": 8476945,
     "name": "Connor Hellebuyck",
     "team": "WPG",
-    "position": "G",
     "number": 37,
+    "position": "G",
     "shoots": "L",
     "birthYear": 1993
   }

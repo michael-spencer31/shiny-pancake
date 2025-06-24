@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Team Matchup Simulator</title>
+  <link rel="stylesheet" href="static/stylesheet.css">
+  <style>
+  </style>
+</head>
+<body>
+
+  <h2>Simulate Multiple Games Between Two Teams</h2>
+
+  <div>
+    <label for="team1">Team 1:</label>
+    <select id="team1"></select>
+
+    <label for="team2">Team 2:</label>
+    <select id="team2"></select>
+
+    <label for="gameCount">Number of Games:</label>
+    <input type="number" id="gameCount" value="10" min="1" max="1000">
+
+    <button onclick="simulateMultipleGames()">Simulate</button>
+  </div>
+
+  <div id="multiGameResults" style="margin-top: 2rem;"></div>
+
+  <script>
+    let teamList = [];
+
+    async function fetchTeamStrengths() {
+      try {
+        const res = await fetch("http://localhost:5000/api/team-strengths");
+        const data = await res.json();
+        teamList = Object.keys(data);
+        populateTeamSelectors();
+      } catch (error) {
+        console.error("Failed to load team list:", error);
+      }
+    }
+
+    function populateTeamSelectors() {
+      const team1Select = document.getElementById("team1");
+      const team2Select = document.getElementById("team2");
+      team1Select.innerHTML = "";
+      team2Select.innerHTML = "";
+
+      teamList.forEach(team => {
+        const option1 = new Option(team, team);
+        const option2 = new Option(team, team);
+        team1Select.appendChild(option1);
+        team2Select.appendChild(option2);
+      });
+
+      if (teamList.length > 1) {
+        team2Select.selectedIndex = 1;
+      }
+    }
+
+    async function simulateMultipleGames() {
+      const team1 = document.getElementById("team1").value;
+      const team2 = document.getElementById("team2").value;
+      const count = parseInt(document.getElementById("gameCount").value);
+      const resultDiv = document.getElementById("multiGameResults");
+
+      if (team1 === team2) {
+        resultDiv.innerHTML = "<p style='color: red;'>Please choose two different teams.</p>";
+        return;
+      }
+
+      resultDiv.innerHTML = "Simulating...";
+      
+      const playerStats = {};
+      let wins = { [team1]: 0, [team2]: 0, ties: 0 };
+      const playerTeams = {}
+      for (let i = 0; i < count; i++) {
+        try {
+          const res = await fetch("/api/simulate-specific-game-with-goals", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ team1, team2 })
+          });
+
+          const data = await res.json();
+
+          if (data.tie) {
+            wins.ties += 1;
+          } else {
+            wins[data.winner] += 1;
+          }
+
+            const allGoals = [...data.goals_team1.map(g => ({ ...g, teamName: data.team1 })), 
+                  ...data.goals_team2.map(g => ({ ...g, teamName: data.team2 }))];
+
+            for (const goal of allGoals) {
+  const scorer = goal.scorer;
+  const team = goal.teamName;
+
+  // Save team info
+  playerTeams[scorer] = team;
+  if (!playerStats[scorer]) {
+    playerStats[scorer] = { goals: 0, assists: 0 };
+  }
+  playerStats[scorer].goals += 1;
+
+  for (const assist of goal.assists) {
+    playerTeams[assist] = team; // Assist = same team
+    if (!playerStats[assist]) {
+      playerStats[assist] = { goals: 0, assists: 0 };
+    }
+    playerStats[assist].assists += 1;
+  }
+}
+
+
+        } catch (err) {
+          console.error(`Error in game ${i + 1}`, err);
+          resultDiv.innerHTML = `<p style="color:red;">Failed during game ${i + 1}</p>`;
+          return;
+        }
+      }
+
+        const logo1 = `<img src="static/images/${team1}.png" alt="${team1} logo" style="height: 24px; vertical-align: middle; margin-right: 6px;" onerror="this.onerror=null; this.src='static/images/default.png';">`;
+        const logo2 = `<img src="static/images/${team2}.png" alt="${team2} logo" style="height: 24px; vertical-align: middle; margin-right: 6px;" onerror="this.onerror=null; this.src='static/images/default.png';">`;
+
+        let html = `
+        <h3>Results after ${count} games</h3>
+        <p>${logo1}<strong>${team1}</strong> wins: ${wins[team1]}</p>
+        <p>${logo2}<strong>${team2}</strong> wins: ${wins[team2]}</p>
+        <p><strong>Ties:</strong> ${wins.ties}</p>
+        <h4>Top Player Stats</h4>
+        <table>
+            <tr><th>Player</th><th>Goals</th><th>Assists</th><th>Points</th></tr>
+        `;
+
+
+      const sortedPlayers = Object.entries(playerStats)
+        .map(([name, stats]) => ({ name, ...stats, points: stats.goals + stats.assists }))
+        .sort((a, b) => b.points - a.points);
+
+      for (const p of sortedPlayers) {
+        const teamLogo = `<img src="static/images/${playerTeams[p.name] || 'default'}.png" alt="logo" style="height: 20px; vertical-align: middle; margin-right: 6px;" onerror="this.onerror=null; this.src='static/images/default.png';">`;
+        html += `<tr><td>${teamLogo}${p.name}</td><td>${p.goals}</td><td>${p.assists}</td><td>${p.points}</td></tr>`;
+      }
+
+      html += "</table>";
+      resultDiv.innerHTML = html;
+    }
+
+    window.onload = fetchTeamStrengths;
+  </script>
+
+</body>
+</html>

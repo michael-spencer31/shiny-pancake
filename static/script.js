@@ -14,14 +14,13 @@ async function fetchTeamStrengths() {
 function populateTeamSelectors() {
   const team1Select = document.getElementById("team1");
   const team2Select = document.getElementById("team2");
+
   team1Select.innerHTML = "";
   team2Select.innerHTML = "";
 
   teamList.forEach(team => {
-    const option1 = new Option(team, team);
-    const option2 = new Option(team, team);
-    team1Select.appendChild(option1);
-    team2Select.appendChild(option2);
+    team1Select.appendChild(new Option(team, team));
+    team2Select.appendChild(new Option(team, team));
   });
 
   if (teamList.length > 1) {
@@ -32,6 +31,7 @@ function populateTeamSelectors() {
 async function simulateSeason() {
   const table = document.getElementById("standingsTable");
   const tbody = table.querySelector("tbody");
+
   tbody.innerHTML = "";
   table.style.display = "none";
 
@@ -62,6 +62,7 @@ async function simulateSeason() {
 
 async function simulateGame() {
   const resultDiv = document.getElementById("gameResult");
+
   resultDiv.style.display = "none";
   resultDiv.textContent = "";
 
@@ -71,7 +72,11 @@ async function simulateGame() {
 
     const text = data.tie
       ? `${data.team1} and ${data.team2} tied ${data.score1}-${data.score2}`
-      : `${data.winner} defeated ${data.team1 === data.winner ? data.team2 : data.team1} ${data.team1 === data.winner ? data.score1 : data.score2}-${data.team1 === data.winner ? data.score2 : data.score1}`;
+      : `${data.winner} defeated ${
+          data.team1 === data.winner ? data.team2 : data.team1
+        } ${
+          data.team1 === data.winner ? data.score1 : data.score2
+        }-${data.team1 === data.winner ? data.score2 : data.score1}`;
 
     resultDiv.textContent = text;
     resultDiv.style.display = "block";
@@ -98,9 +103,7 @@ async function simulateSpecificGame() {
   try {
     const res = await fetch("http://localhost:5000/api/simulate-specific-game", {
       method: "POST",
-      headers: {
-        "Content-Type": "application/json"
-      },
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ team1, team2 })
     });
 
@@ -111,7 +114,11 @@ async function simulateSpecificGame() {
     } else {
       const text = data.tie
         ? `${data.team1} and ${data.team2} tied ${data.score1}-${data.score2}`
-        : `${data.winner} defeated ${data.team1 === data.winner ? data.team2 : data.team1} ${data.team1 === data.winner ? data.score1 : data.score2}-${data.team1 === data.winner ? data.score2 : data.score1}`;
+        : `${data.winner} defeated ${
+            data.team1 === data.winner ? data.team2 : data.team1
+          } ${
+            data.team1 === data.winner ? data.score1 : data.score2
+          }-${data.team1 === data.winner ? data.score2 : data.score1}`;
       resultDiv.textContent = text;
     }
 
@@ -126,6 +133,7 @@ async function simulateGameWithScorers() {
   const team1 = document.getElementById("team1").value;
   const team2 = document.getElementById("team2").value;
   const resultDiv = document.getElementById("gameWithScorersResult");
+
   resultDiv.innerHTML = "";
   resultDiv.style.display = "none";
 
@@ -144,14 +152,12 @@ async function simulateGameWithScorers() {
     const data = await res.json();
     console.log("✅ Received game data:", data);
 
-    // Merge goals from both teams
     const allGoals = [...data.goals_team1, ...data.goals_team2].map(g => ({
       ...g,
       teamName: g.team === 1 ? data.team1 : data.team2,
       prefix: g.team === 1 ? `${data.team1} Goal` : `${data.team2} Goal`
     }));
 
-    // Group by period
     const goalsByPeriod = {};
     for (const goal of allGoals) {
       if (!goalsByPeriod[goal.period]) {
@@ -160,25 +166,56 @@ async function simulateGameWithScorers() {
       goalsByPeriod[goal.period].push(goal);
     }
 
-    // Sort periods and goals within them
     const sortedPeriods = Object.keys(goalsByPeriod).sort((a, b) => a - b);
     sortedPeriods.forEach(p => {
       goalsByPeriod[p].sort((a, b) => a.time.localeCompare(b.time));
     });
 
-    // Build output HTML
+    // Final scores
+    let finalScore1 = data.score1;
+    let finalScore2 = data.score2;
+
+    if (data.tie && data.winner === data.team1) {
+      finalScore1 += 1;
+    } else if (data.tie && data.winner === data.team2) {
+      finalScore2 += 1;
+    }
+
+    let scoreLine = `${finalScore1} - ${finalScore2}`;
+    if (data.tie) {
+      scoreLine += " OT";
+    }
+
+    // Team logos
+    const logo1 = `<img src="static/images/${data.team1}.png" alt="${data.team1} logo" style="height: 24px; vertical-align: middle;" onerror="this.onerror=null; this.src='static/images/default.png';">`;
+    const logo2 = `<img src="static/images/${data.team2}.png" alt="${data.team2} logo" style="height: 24px; vertical-align: middle;" onerror="this.onerror=null; this.src='static/images/default.png';">`;
+
+
+    // Start building output
     let output = `
-      <h3>${data.team1} ${data.score1} - ${data.score2} ${data.team2}</h3>
-      <p><strong>${data.tie ? `Tie (OT Winner: ${data.winner})` : `Winner: ${data.winner}`}</strong></p>
+      <h3>${logo1} ${data.team1} ${scoreLine} ${data.team2} ${logo2}</h3>
+      <p><strong>${
+        data.tie ? `OT Winner: ${data.winner}` : `Winner: ${data.winner}`
+      }</strong></p>
     `;
 
+    // Add goal summaries
     for (const period of sortedPeriods) {
-      output += `<h4>Period ${period}</h4>`;
+      const periodLabel = period === "4" ? "OT" : `Period ${period}`;
+      output += `<h4>${periodLabel}</h4>`;
+
       for (const goal of goalsByPeriod[period]) {
-        const assists = goal.assists.length ? ` (Assists: ${goal.assists.join(", ")})` : "";
-        output += `<p>${goal.prefix}: ${goal.time} – ${goal.scorer}${assists}</p>`;
+        const assists = goal.assists.length
+          ? ` (Assists: ${goal.assists.join(", ")})`
+          : "";
+
+        const teamLogo = `<img src="static/images/${goal.teamName}.png" alt="${goal.teamName} logo" style="height: 20px; vertical-align: middle; margin-right: 6px;" onerror="this.onerror=null; this.src='static/images/default.png';">`;
+
+        output += `<p>${teamLogo}${goal.prefix}: ${goal.time} – ${goal.scorer}${assists}</p>`;
       }
     }
+
+
 
     resultDiv.innerHTML = output;
     resultDiv.style.display = "block";
@@ -189,7 +226,5 @@ async function simulateGameWithScorers() {
     resultDiv.style.display = "block";
   }
 }
-
-
 
 window.onload = fetchTeamStrengths;
