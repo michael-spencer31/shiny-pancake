@@ -106,3 +106,16 @@ th {
   color: #34495e;
 }
 
+#gameWithScorersResult div {
+  margin-left: 1em;
+  margin-bottom: 0.3em;
+}
+
+#gameWithScorersResult h4 {
+  margin-top: 1em;
+  border-bottom: 1px solid #ccc;
+}
+
+#gameWithScorersResult p {
+  margin-left: 1em;
+}

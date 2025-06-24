@@ -122,59 +122,74 @@ async function simulateSpecificGame() {
   }
 }
 
-function simulateGameWithScorers() {
+async function simulateGameWithScorers() {
   const team1 = document.getElementById("team1").value;
   const team2 = document.getElementById("team2").value;
   const resultDiv = document.getElementById("gameWithScorersResult");
-
   resultDiv.innerHTML = "";
   resultDiv.style.display = "none";
 
-  fetch("/api/simulate-specific-game-with-goals", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ team1, team2 })
-  })
-    .then(res => {
-      if (!res.ok) {
-        return res.text().then(text => {
-          throw new Error(`Server error: ${res.status} - ${text}`);
-        });
-      }
-      return res.json();
-    })
-    .then(data => {
-
-      const formatGoal = goal => {
-        const assistText = goal.assists.length
-          ? ` (Assists: ${goal.assists.join(', ')})`
-          : "";
-        return `<div>${goal.scorer}${assistText}</div>`;
-      };
-
-      const team1Goals = data.goals_team1.map(formatGoal).join("");
-      const team2Goals = data.goals_team2.map(formatGoal).join("");
-
-      resultDiv.innerHTML = `
-        <h3>${data.team1} ${data.score1} - ${data.score2} ${data.team2}</h3>
-        <p><strong>${data.tie ? `Tie (OT Winner: ${data.winner})` : `Winner: ${data.winner}`}</strong></p>
-        <div style="margin-bottom: 10px;">
-          <h4>${data.team1} Goals:</h4>
-          ${team1Goals || "<div>None</div>"}
-        </div>
-        <div>
-          <h4>${data.team2} Goals:</h4>
-          ${team2Goals || "<div>None</div>"}
-        </div>
-      `;
-      resultDiv.style.display = "block";
-    })
-    .catch(err => {
-      console.error("❌ Error in simulateGameWithScorers:", err);
-      resultDiv.innerHTML = `<p style="color: red;">Error: ${err.message}</p>`;
-      resultDiv.style.display = "block";
+  try {
+    const res = await fetch("/api/simulate-specific-game-with-goals", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ team1, team2 })
     });
+
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error(`Server error: ${res.status} - ${text}`);
+    }
+
+    const data = await res.json();
+    console.log("✅ Received game data:", data);
+
+    // Merge goals from both teams
+    const allGoals = [...data.goals_team1, ...data.goals_team2].map(g => ({
+      ...g,
+      teamName: g.team === 1 ? data.team1 : data.team2,
+      prefix: g.team === 1 ? `${data.team1} Goal` : `${data.team2} Goal`
+    }));
+
+    // Group by period
+    const goalsByPeriod = {};
+    for (const goal of allGoals) {
+      if (!goalsByPeriod[goal.period]) {
+        goalsByPeriod[goal.period] = [];
+      }
+      goalsByPeriod[goal.period].push(goal);
+    }
+
+    // Sort periods and goals within them
+    const sortedPeriods = Object.keys(goalsByPeriod).sort((a, b) => a - b);
+    sortedPeriods.forEach(p => {
+      goalsByPeriod[p].sort((a, b) => a.time.localeCompare(b.time));
+    });
+
+    // Build output HTML
+    let output = `
+      <h3>${data.team1} ${data.score1} - ${data.score2} ${data.team2}</h3>
+      <p><strong>${data.tie ? `Tie (OT Winner: ${data.winner})` : `Winner: ${data.winner}`}</strong></p>
+    `;
+
+    for (const period of sortedPeriods) {
+      output += `<h4>Period ${period}</h4>`;
+      for (const goal of goalsByPeriod[period]) {
+        const assists = goal.assists.length ? ` (Assists: ${goal.assists.join(", ")})` : "";
+        output += `<p>${goal.prefix}: ${goal.time} – ${goal.scorer}${assists}</p>`;
+      }
+    }
+
+    resultDiv.innerHTML = output;
+    resultDiv.style.display = "block";
+
+  } catch (err) {
+    console.error("❌ Error in simulateGameWithScorers:", err);
+    resultDiv.innerHTML = `<p style="color: red;">Error: ${err.message}</p>`;
+    resultDiv.style.display = "block";
+  }
 }
+
 
 
 window.onload = fetchTeamStrengths;

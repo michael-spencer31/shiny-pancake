@@ -103,6 +103,113 @@ def simulate_game(str1, str2):
 
     return score1, score2, 1 if score1 > score2 else 2, False
 
+def pick_weighted_player(players):
+    total = sum(p['rating'] for p in players)
+    r = random.uniform(0, total)
+    upto = 0
+    for p in players:
+        upto += p['rating']
+        if upto >= r:
+            return p
+    return random.choice(players)
+
+def pick_assist_players(goal_scorer, team_players, max_assists=2):
+    eligible = [p for p in team_players if p["name"] != goal_scorer["name"]]
+
+    # Bias toward 1 or 2 assists: weighted random choice
+    assist_options = [0, 1, 2]
+    weights = [0.1, 0.45, 0.45]  # Adjust to your liking
+    num_assists = random.choices(assist_options, weights=weights, k=1)[0]
+
+    assists = []
+    for _ in range(num_assists):
+        if eligible:
+            assist = pick_weighted_player(eligible)
+            assists.append(assist)
+            eligible = [p for p in eligible if p["name"] != assist["name"]]
+
+    return assists
+
+def generate_goal_time_and_period():
+    period = random.choices([1, 2, 3, 4], weights=[30, 30, 30, 10])[0]
+    minute = random.randint(0, 19)
+    second = random.randint(0, 59)
+    return period, f"{minute:02d}:{second:02d}"
+
+def simulate_game_with_scorers(str1, str2, players1, players2):
+    base_rate = 2.9
+    expected1 = base_rate * str1
+    expected2 = base_rate * str2
+
+    goals1 = min(np.random.poisson(expected1), 8)
+    goals2 = min(np.random.poisson(expected2), 8)
+
+    detailed_goals1 = []
+    detailed_goals2 = []
+
+    all_goals = []
+
+    # First generate all regulation goals
+    for team_id, team_players, goal_count in [(1, players1, goals1), (2, players2, goals2)]:
+        for _ in range(goal_count):
+            scorer = pick_weighted_player(team_players)
+            assists = pick_assist_players(scorer, team_players)
+            period = random.choices([1, 2, 3], weights=[33, 33, 34])[0]  # Only periods 1-3
+            minute = random.randint(0, 19)
+            second = random.randint(0, 59)
+            time_str = f"{minute:02d}:{second:02d}"
+            all_goals.append({
+                "team": team_id,
+                "scorer": scorer["name"],
+                "assists": [a["name"] for a in assists],
+                "period": period,
+                "time": time_str
+            })
+
+    # Determine winner and optionally simulate OT goal
+    if goals1 > goals2:
+        winner = 1
+        tie = False
+    elif goals2 > goals1:
+        winner = 2
+        tie = False
+    else:
+        tie = True
+        winner = random.choice([1, 2])  # OT winner
+
+        # Add 1 OT goal for the winning team
+        ot_players = players1 if winner == 1 else players2
+        scorer = pick_weighted_player(ot_players)
+        assists = pick_assist_players(scorer, ot_players)
+        minute = random.randint(0, 4)
+        second = random.randint(0, 59)
+        time_str = f"{minute:02d}:{second:02d}"
+        all_goals.append({
+            "team": winner,
+            "scorer": scorer["name"],
+            "assists": [a["name"] for a in assists],
+            "period": 4,
+            "time": time_str
+        })
+
+    # Sort and categorize
+    all_goals.sort(key=lambda g: (g["period"], g["time"]))
+
+    for goal in all_goals:
+        if goal["team"] == 1:
+            detailed_goals1.append(goal)
+        else:
+            detailed_goals2.append(goal)
+
+    return {
+        "score1": goals1,
+        "score2": goals2,
+        "winner": winner,
+        "tie": tie,
+        "goals_team1": detailed_goals1,
+        "goals_team2": detailed_goals2
+    }
+
 # --- Routes ---
 
 @app.route("/api/team-strengths", methods=["GET"])
@@ -181,80 +288,6 @@ def simulate_season():
             } for i, (team, stats) in enumerate(standings)
         ]
     })
-
-def pick_weighted_player(players):
-    total = sum(p['rating'] for p in players)
-    r = random.uniform(0, total)
-    upto = 0
-    for p in players:
-        upto += p['rating']
-        if upto >= r:
-            return p
-    return random.choice(players)
-
-def pick_assist_players(goal_scorer, team_players, max_assists=2):
-    eligible = [p for p in team_players if p["name"] != goal_scorer["name"]]
-
-    # Bias toward 1 or 2 assists: weighted random choice
-    assist_options = [0, 1, 2]
-    weights = [0.1, 0.45, 0.45]  # Adjust to your liking
-    num_assists = random.choices(assist_options, weights=weights, k=1)[0]
-
-    assists = []
-    for _ in range(num_assists):
-        if eligible:
-            assist = pick_weighted_player(eligible)
-            assists.append(assist)
-            eligible = [p for p in eligible if p["name"] != assist["name"]]
-
-    return assists
-
-
-def simulate_game_with_scorers(str1, str2, players1, players2):
-    base_rate = 2.9
-    expected1 = base_rate * str1
-    expected2 = base_rate * str2
-
-    goals1 = min(np.random.poisson(expected1), 8)
-    goals2 = min(np.random.poisson(expected2), 8)
-
-    detailed_goals1 = []
-    detailed_goals2 = []
-
-    for _ in range(goals1):
-        scorer = pick_weighted_player(players1)
-        assists = pick_assist_players(scorer, players1)
-        detailed_goals1.append({
-            "scorer": scorer["name"],
-            "assists": [a["name"] for a in assists]
-        })
-
-    for _ in range(goals2):
-        scorer = pick_weighted_player(players2)
-        assists = pick_assist_players(scorer, players2)
-        detailed_goals2.append({
-            "scorer": scorer["name"],
-            "assists": [a["name"] for a in assists]
-        })
-
-    if goals1 > goals2:
-        winner = 1
-        tie = False
-    elif goals2 > goals1:
-        winner = 2
-        tie = False
-    else:
-        winner = random.choice([1, 2])
-        tie = True
-
-    return {
-        "score1": goals1,
-        "score2": goals2,
-        "winner": winner,
-        "tie": tie,
-        "goals_team1": detailed_goals1,
-        "goals_team2": detailed_goals2
-    }
 
 @app.route("/api/simulate-game", methods=["GET"])
 def simulate_game_endpoint():
