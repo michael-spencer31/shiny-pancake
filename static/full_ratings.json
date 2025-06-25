@@ -1,0 +1,188 @@
+{
+  "ANA": {
+    "normalized_rating": 0.568,
+    "raw_rating": 1898,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "BOS": {
+    "normalized_rating": 0.211,
+    "raw_rating": 1520,
+    "label": "Rebuilding",
+    "franchisePlayers": 1
+  },
+  "BUF": {
+    "normalized_rating": 0.314,
+    "raw_rating": 1630,
+    "label": "Rebuilding",
+    "franchisePlayers": 1
+  },
+  "CGY": {
+    "normalized_rating": 0.516,
+    "raw_rating": 1843,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "CAR": {
+    "normalized_rating": 0.81,
+    "raw_rating": 2154,
+    "label": "Average",
+    "franchisePlayers": 0
+  },
+  "CHI": {
+    "normalized_rating": 0.39,
+    "raw_rating": 1710,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "COL": {
+    "normalized_rating": 0.93,
+    "raw_rating": 2282,
+    "label": "Average",
+    "franchisePlayers": 3
+  },
+  "CBJ": {
+    "normalized_rating": 0.884,
+    "raw_rating": 2233,
+    "label": "Average",
+    "franchisePlayers": 2
+  },
+  "DAL": {
+    "normalized_rating": 0.825,
+    "raw_rating": 2170,
+    "label": "Average",
+    "franchisePlayers": 3
+  },
+  "DET": {
+    "normalized_rating": 0.457,
+    "raw_rating": 1781,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "EDM": {
+    "normalized_rating": 1.235,
+    "raw_rating": 2604,
+    "label": "Average",
+    "franchisePlayers": 2
+  },
+  "FLA": {
+    "normalized_rating": 0.876,
+    "raw_rating": 2224,
+    "label": "Average",
+    "franchisePlayers": 2
+  },
+  "LAK": {
+    "normalized_rating": 1.085,
+    "raw_rating": 2446,
+    "label": "Average",
+    "franchisePlayers": 1
+  },
+  "MIN": {
+    "normalized_rating": 1.117,
+    "raw_rating": 2479,
+    "label": "Average",
+    "franchisePlayers": 1
+  },
+  "MTL": {
+    "normalized_rating": 0.675,
+    "raw_rating": 2012,
+    "label": "Rebuilding",
+    "franchisePlayers": 2
+  },
+  "NSH": {
+    "normalized_rating": 0.403,
+    "raw_rating": 1724,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "NJD": {
+    "normalized_rating": 1.089,
+    "raw_rating": 2450,
+    "label": "Average",
+    "franchisePlayers": 0
+  },
+  "NYI": {
+    "normalized_rating": 0.539,
+    "raw_rating": 1868,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "NYR": {
+    "normalized_rating": 0.593,
+    "raw_rating": 1925,
+    "label": "Rebuilding",
+    "franchisePlayers": 1
+  },
+  "OTT": {
+    "normalized_rating": 1.303,
+    "raw_rating": 2676,
+    "label": "Contender",
+    "franchisePlayers": 0
+  },
+  "PHI": {
+    "normalized_rating": 0.435,
+    "raw_rating": 1758,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "PIT": {
+    "normalized_rating": 0.497,
+    "raw_rating": 1823,
+    "label": "Rebuilding",
+    "franchisePlayers": 1
+  },
+  "SJS": {
+    "normalized_rating": 0.1,
+    "raw_rating": 1403,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "SEA": {
+    "normalized_rating": 0.331,
+    "raw_rating": 1648,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "STL": {
+    "normalized_rating": 0.687,
+    "raw_rating": 2024,
+    "label": "Rebuilding",
+    "franchisePlayers": 2
+  },
+  "TBL": {
+    "normalized_rating": 0.831,
+    "raw_rating": 2177,
+    "label": "Average",
+    "franchisePlayers": 4
+  },
+  "TOR": {
+    "normalized_rating": 2.0,
+    "raw_rating": 3414,
+    "label": "Elite",
+    "franchisePlayers": 4
+  },
+  "VAN": {
+    "normalized_rating": 0.257,
+    "raw_rating": 1569,
+    "label": "Rebuilding",
+    "franchisePlayers": 0
+  },
+  "VGK": {
+    "normalized_rating": 1.181,
+    "raw_rating": 2547,
+    "label": "Average",
+    "franchisePlayers": 1
+  },
+  "WSH": {
+    "normalized_rating": 0.854,
+    "raw_rating": 2201,
+    "label": "Average",
+    "franchisePlayers": 1
+  },
+  "WPG": {
+    "normalized_rating": 1.428,
+    "raw_rating": 2809,
+    "label": "Contender",
+    "franchisePlayers": 3
+  }
+}

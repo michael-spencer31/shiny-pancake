@@ -214,8 +214,8 @@ def simulate_game_with_scorers(str1, str2, players1, players2):
 
 @app.route("/api/team-strengths", methods=["GET"])
 def get_team_strengths():
-    force = request.args.get("force") == "1"
-    strengths = load_or_generate_strengths(force)
+    # force = request.args.get("force") == "1"
+    strengths = load_or_generate_strengths()
     return jsonify(strengths)
 
 @app.route("/api/simulate-season", methods=["GET"])
@@ -375,6 +375,10 @@ def index():
 @app.route("/teams")
 def teams():
     return send_file("teams.html")
+
+@app.route("/rosters")
+def roster():
+    return send_file("roster.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
