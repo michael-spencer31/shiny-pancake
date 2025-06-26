@@ -266,6 +266,12 @@ def get_team_strengths():
 def simulate_season():
     strengths = load_or_generate_strengths()
     teams = list(strengths.keys())
+
+    with open('static/normalized_ratings.json', "r") as f:
+        strength_data = json.load(f)
+    
+    print(strength_data)
+    
     games_per_team = 82
 
     schedule = generate_fair_schedule(teams, games_per_team)
@@ -283,7 +289,7 @@ def simulate_season():
     for (team1, team2), count in schedule.items():
 
         for _ in range(count):
-            s1, s2, winner, is_tie = simulate_game(strengths[team1], strengths[team2])
+            s1, s2, winner, is_tie = simulate_game(strength_data[team1], strength_data[team2])
             results[team1]["games_played"] += 1
             results[team2]["games_played"] += 1
             results[team1]["goal_diff"] += s1 - s2
