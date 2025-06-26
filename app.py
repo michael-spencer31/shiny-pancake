@@ -43,31 +43,75 @@ def load_or_generate_strengths(force_refresh=False):
 
     return strengths
 
-def generate_fair_schedule(teams, games_per_team):
-    matchups = list(itertools.combinations(teams, 2))
-    total_games_needed = (games_per_team * len(teams)) // 2
+def generate_fair_schedule(teams, games_per_team=82, n_attempts=10000):
 
-    for _ in range(1000):
+    max_outer_attempts = 10
+    
+    ATL = ['TOR', 'TBL', 'FLA', 'OTT', 'MTL', 'DET', 'BUF', 'BOS']
+    MTR = ['WSH', 'CAR', 'NJD', 'CBJ', 'NYR', 'NYI', 'PIT', 'PHI']
+    CEN = ['WPG', 'DAL', 'COL', 'MIN', 'STL', 'UTA', 'NSH', 'CHI']
+    PCF = ['VGK', 'LAK', 'EDM', 'CGY', 'VAN', 'ANA', 'SEA', 'SJS']
+    divisions = [ATL, MTR, CEN, PCF]
+
+    def division_of(team):
+        for div in divisions:
+            if team in div:
+                return div
+        return []
+
+    def same_division(t1, t2):
+        return t2 in division_of(t1)
+
+    def same_conference(t1, t2):
+        east = ATL + MTR
+        west = CEN + PCF
+        return (t1 in east and t2 in east) or (t1 in west and t2 in west)
+
+    for attempt in range(n_attempts):
         matchup_counts = defaultdict(int)
         team_games = defaultdict(int)
-        random.shuffle(matchups)
 
-        while sum(team_games.values()) // 2 < total_games_needed:
-            progress = False
-            for team1, team2 in matchups:
-                if team_games[team1] < games_per_team and team_games[team2] < games_per_team:
-                    matchup_counts[(team1, team2)] += 1
-                    team_games[team1] += 1
-                    team_games[team2] += 1
-                    progress = True
-                if sum(team_games.values()) // 2 >= total_games_needed:
-                    break
-            if not progress:
+        all_pairs = list(itertools.combinations(teams, 2))
+        weighted_pairs = []
+
+        for t1, t2 in all_pairs:
+            if same_division(t1, t2):
+                weight = 5
+            elif same_conference(t1, t2):
+                weight = 3
+            else:
+                weight = 2
+            weighted_pairs.extend([(t1, t2)] * weight)
+
+        random.shuffle(weighted_pairs)
+        total_games_needed = (games_per_team * len(teams)) // 2
+
+        for t1, t2 in weighted_pairs:
+            if team_games[t1] < games_per_team and team_games[t2] < games_per_team:
+                key = tuple(sorted((t1, t2)))
+                matchup_counts[key] += 1
+                team_games[t1] += 1
+                team_games[t2] += 1
+
+            if sum(team_games.values()) // 2 >= total_games_needed:
                 break
 
-        if all(g == games_per_team for g in team_games.values()):
+        # debug loop - uncomment to see full teams schedule
+        # f all(g == games_per_team for g in team_games.values()):
+            # print("\nMTL Matchups:")
+            # for (t1, t2), count in matchup_counts.items():
+                # if 'MTL' in (t1, t2):
+                    # opponent = t2 if t1 == 'MTL' else t1
+                    # print(f"MTL vs {opponent}: {count} games")
+
+
+        if all(team_games[t] == games_per_team for t in teams):
+            print(f"✅ Schedule generated in attempt {attempt + 1}")
             return matchup_counts
-    raise RuntimeError("Could not generate a fair schedule")
+
+    raise RuntimeError("❌ Failed to generate a fair schedule after multiple attempts")
+
+
 
 def simulate_game(str1, str2):
     base_rate = 4.8
@@ -90,8 +134,8 @@ def simulate_game(str1, str2):
     if str2 < str1 and np.random.rand() < upset_chance:
         return random.randint(0, 2), random.randint(4, 5), 2, False
 
-    score1 = min(score1, 8)
-    score2 = min(score2, 8)
+    score1 = min(score1, 10)
+    score2 = min(score2, 10)
 
     if score1 == score2:
         if str1 > str2:
