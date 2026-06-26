@@ -36,7 +36,7 @@ for player in simplified:
     merged.append(merged_player)
 
 # Save result
-with open('merged_players.json', 'w') as f:
+with open('static/merged_players.json', 'w') as f:
     json.dump(merged, f, indent=2)
 
 print(f"✅ Merged {len(merged)} players into merged_players.json")
